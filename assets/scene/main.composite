@@ -34,6 +34,86 @@
       "data": {}
     },
     {
+      "name": "core::Transform",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "position": {
+            "type": "object",
+            "properties": {
+              "x": {
+                "type": "number"
+              },
+              "y": {
+                "type": "number"
+              },
+              "z": {
+                "type": "number"
+              }
+            }
+          },
+          "scale": {
+            "type": "object",
+            "properties": {
+              "x": {
+                "type": "number"
+              },
+              "y": {
+                "type": "number"
+              },
+              "z": {
+                "type": "number"
+              }
+            }
+          },
+          "rotation": {
+            "type": "object",
+            "properties": {
+              "x": {
+                "type": "number"
+              },
+              "y": {
+                "type": "number"
+              },
+              "z": {
+                "type": "number"
+              },
+              "w": {
+                "type": "number"
+              }
+            }
+          },
+          "parent": {
+            "type": "integer"
+          }
+        },
+        "serializationType": "transform"
+      },
+      "data": {
+        "512": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        }
+      }
+    },
+    {
       "name": "core::Animator",
       "jsonSchema": {
         "type": "object",
@@ -45,6 +125,49 @@
         "0": {
           "json": {
             "states": []
+          }
+        },
+        "512": {
+          "json": {
+            "states": []
+          }
+        }
+      }
+    },
+    {
+      "name": "core::GltfContainer",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBGltfContainer"
+      },
+      "data": {
+        "512": {
+          "json": {
+            "src": "assets/scene/Models/artgalleryoffset2/artgalleryoffset2.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 2
+          }
+        }
+      }
+    },
+    {
+      "name": "core-schema::Name",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "value": {
+            "type": "string",
+            "serializationType": "utf8-string"
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "512": {
+          "json": {
+            "value": "artgalleryoffset2.glb"
           }
         }
       }
@@ -62,9 +185,9 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "512": {
           "json": {
-            "gizmo": 0
+            "gizmo": 3
           }
         }
       }
@@ -363,6 +486,18 @@
               "parcels": [
                 {
                   "x": 0,
+                  "y": 1
+                },
+                {
+                  "x": 1,
+                  "y": 1
+                },
+                {
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "x": 1,
                   "y": 0
                 }
               ]
@@ -449,8 +584,10 @@
             "value": [
               {
                 "entity": 0,
-                "children": [],
-                "open": true
+                "open": true,
+                "children": [
+                  512
+                ]
               },
               {
                 "entity": 1,
@@ -458,6 +595,10 @@
               },
               {
                 "entity": 2,
+                "children": []
+              },
+              {
+                "entity": 512,
                 "children": []
               }
             ]
@@ -706,6 +847,28 @@
             "id": 0,
             "value": 0
           }
+        }
+      }
+    },
+    {
+      "name": "inspector::TransformConfig",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "porportionalScaling": {
+            "type": "boolean",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "boolean",
+              "serializationType": "boolean"
+            }
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "512": {
+          "json": {}
         }
       }
     }
