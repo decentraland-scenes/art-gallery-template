@@ -13,6 +13,11 @@ export enum EntityNames {
   _2nd_floor_image_1 = "2nd_floor_image_1",
   _2nd_floor_image_1_2 = "2nd_floor_image_1_2",
   Custom_Text = "Custom_Text",
+  Ground = "Ground",
+  Tile_1 = "Tile 1",
+  Tile_2 = "Tile 2",
+  Tile_3 = "Tile 3",
+  Tile_4 = "Tile 4",
   Vertical_White_Pad = "Vertical White Pad",
-  new_model_glb = "new_model.glb",
+  artgalleryl_glb = "artgalleryl.glb",
 } 
