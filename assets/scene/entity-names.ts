@@ -12,7 +12,8 @@ export enum EntityNames {
   _1st_floor_image_5 = "1st_floor_image_5",
   _2nd_floor_image_1 = "2nd_floor_image_1",
   _2nd_floor_image_1_2 = "2nd_floor_image_1_2",
+  Cube = "Cube",
   Custom_Text = "Custom_Text",
   Vertical_White_Pad = "Vertical White Pad",
-  artgallerymats_e3_glb = "artgallerymats_e3.glb",
+  model_edited_glb = "model_edited.glb",
 } 
