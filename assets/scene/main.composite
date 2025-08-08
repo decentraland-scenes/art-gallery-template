@@ -132,6 +132,27 @@
             "parent": 0
           }
         },
+        "514": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
         "515": {
           "json": {
             "position": {
@@ -278,27 +299,6 @@
             },
             "parent": 0
           }
-        },
-        "522": {
-          "json": {
-            "position": {
-              "x": 0,
-              "y": 0,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 0
-          }
         }
       }
     },
@@ -362,6 +362,11 @@
             "states": []
           }
         },
+        "514": {
+          "json": {
+            "states": []
+          }
+        },
         "515": {
           "json": {
             "states": []
@@ -396,11 +401,6 @@
           "json": {
             "states": []
           }
-        },
-        "522": {
-          "json": {
-            "states": []
-          }
         }
       }
     },
@@ -420,9 +420,9 @@
             "invisibleMeshesCollisionMask": 2
           }
         },
-        "522": {
+        "514": {
           "json": {
-            "src": "assets/scene/Models/model_edited/model_edited.glb",
+            "src": "assets/scene/Models/new_model/new_model.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -1353,6 +1353,11 @@
             "value": "1st_floor_image_1"
           }
         },
+        "514": {
+          "json": {
+            "value": "new_model.glb"
+          }
+        },
         "515": {
           "json": {
             "value": "1st_floor_image_2"
@@ -1386,11 +1391,6 @@
         "521": {
           "json": {
             "value": "2nd_floor_image_1_2"
-          }
-        },
-        "522": {
-          "json": {
-            "value": "model_edited.glb"
           }
         }
       }
@@ -1531,7 +1531,7 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "514": {
           "json": {
             "gizmo": 0
           }
@@ -1987,7 +1987,7 @@
                   519,
                   520,
                   521,
-                  522
+                  514
                 ]
               },
               {
@@ -2035,7 +2035,7 @@
                 "children": []
               },
               {
-                "entity": 522,
+                "entity": 514,
                 "children": []
               }
             ]
@@ -2671,6 +2671,9 @@
         "513": {
           "json": {}
         },
+        "514": {
+          "json": {}
+        },
         "515": {
           "json": {}
         },
@@ -2690,9 +2693,6 @@
           "json": {}
         },
         "521": {
-          "json": {}
-        },
-        "522": {
           "json": {}
         }
       }
