@@ -5,5 +5,5 @@
  * Object containing all entity names in the scene for autocomplete support.
  */
 export enum EntityNames {
-  artgalleryoffset2_glb = "artgalleryoffset2.glb",
+  artgallerymats_e3_glb = "artgallerymats_e3.glb",
 } 

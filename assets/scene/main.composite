@@ -90,7 +90,7 @@
         "serializationType": "transform"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {
             "position": {
               "x": 0,
@@ -127,7 +127,7 @@
             "states": []
           }
         },
-        "512": {
+        "514": {
           "json": {
             "states": []
           }
@@ -143,9 +143,9 @@
         "protocolBuffer": "PBGltfContainer"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {
-            "src": "assets/scene/Models/artgalleryoffset2/artgalleryoffset2.glb",
+            "src": "assets/scene/Models/artgallerymats_e3/artgallerymats_e3.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 2
           }
@@ -165,9 +165,9 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {
-            "value": "artgalleryoffset2.glb"
+            "value": "artgallerymats_e3.glb"
           }
         }
       }
@@ -185,7 +185,7 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {
             "gizmo": 3
           }
@@ -586,7 +586,7 @@
                 "entity": 0,
                 "open": true,
                 "children": [
-                  512
+                  514
                 ]
               },
               {
@@ -598,7 +598,7 @@
                 "children": []
               },
               {
-                "entity": 512,
+                "entity": 514,
                 "children": []
               }
             ]
@@ -867,7 +867,7 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {}
         }
       }
