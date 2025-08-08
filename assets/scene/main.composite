@@ -93,7 +93,7 @@
         "512": {
           "json": {
             "position": {
-              "x": 13,
+              "x": 14.5,
               "y": 0.21000000834465027,
               "z": 28.600000381469727
             },
@@ -139,16 +139,16 @@
               "y": 4.25,
               "z": 1.5
             },
+            "scale": {
+              "x": 6,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 6,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -160,16 +160,16 @@
               "y": 4.25,
               "z": 1.5
             },
+            "scale": {
+              "x": 6,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 6,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -177,20 +177,20 @@
         "517": {
           "json": {
             "position": {
-              "x": 0.5,
+              "x": 2,
               "y": 4.25,
               "z": 6.5
-            },
-            "scale": {
-              "x": 4,
-              "y": 5,
-              "z": 1
             },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": -0.7071067690849304
+            },
+            "scale": {
+              "x": 4,
+              "y": 5,
+              "z": 1
             },
             "parent": 0
           }
@@ -198,14 +198,9 @@
         "518": {
           "json": {
             "position": {
-              "x": 4,
+              "x": 5.5,
               "y": 4.25,
               "z": 17.899999618530273
-            },
-            "scale": {
-              "x": 7,
-              "y": 5,
-              "z": 1
             },
             "rotation": {
               "x": 0,
@@ -213,26 +208,31 @@
               "z": 0,
               "w": -0.7071067690849304
             },
+            "scale": {
+              "x": 7,
+              "y": 5,
+              "z": 1
+            },
             "parent": 0
           }
         },
         "519": {
           "json": {
             "position": {
-              "x": 24.25,
+              "x": 25.75,
               "y": 2.75,
               "z": 21.5
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 3
             },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 3
             },
             "parent": 0
           }
@@ -279,27 +279,6 @@
             "parent": 0
           }
         },
-        "522": {
-          "json": {
-            "position": {
-              "x": 0,
-              "y": 0.10000000149011612,
-              "z": 0
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "parent": 0
-          }
-        },
         "524": {
           "json": {
             "position": {
@@ -307,16 +286,16 @@
               "y": 0,
               "z": 0
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -328,16 +307,16 @@
               "y": 0,
               "z": 24
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 524
           }
@@ -349,16 +328,16 @@
               "y": 0,
               "z": 24
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 524
           }
@@ -370,16 +349,16 @@
               "y": 0,
               "z": 8
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 524
           }
@@ -391,16 +370,16 @@
               "y": 0,
               "z": 8
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 524
           }
@@ -408,7 +387,7 @@
         "529": {
           "json": {
             "position": {
-              "x": 26,
+              "x": 27.5,
               "y": 0,
               "z": 14.5
             },
@@ -429,7 +408,7 @@
         "530": {
           "json": {
             "position": {
-              "x": 27.5,
+              "x": 29,
               "y": 0,
               "z": 14
             },
@@ -450,7 +429,7 @@
         "531": {
           "json": {
             "position": {
-              "x": 25.5,
+              "x": 26.75,
               "y": 0,
               "z": 15.5
             },
@@ -471,9 +450,9 @@
         "533": {
           "json": {
             "position": {
-              "x": 25,
+              "x": 26.5,
               "y": 0,
-              "z": 16.75
+              "z": 16.5
             },
             "rotation": {
               "x": 0,
@@ -489,10 +468,31 @@
             "parent": 0
           }
         },
+        "534": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
         "539": {
           "json": {
             "position": {
-              "x": 24.25,
+              "x": 25.5,
               "y": 0,
               "z": 25.5
             },
@@ -607,11 +607,6 @@
             "states": []
           }
         },
-        "522": {
-          "json": {
-            "states": []
-          }
-        },
         "524": {
           "json": {
             "states": []
@@ -637,6 +632,11 @@
             "states": []
           }
         },
+        "534": {
+          "json": {
+            "states": []
+          }
+        },
         "539": {
           "json": {
             "states": []
@@ -658,13 +658,6 @@
             "src": "assets/asset-packs/vertical_white_pad/vertical_white_pad.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 2
-          }
-        },
-        "522": {
-          "json": {
-            "src": "assets/scene/Models/artgalleryl/artgalleryl.glb",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
           }
         },
         "525": {
@@ -719,6 +712,13 @@
         "533": {
           "json": {
             "src": "assets/asset-packs/ostrich_ferns/Grass_02/Grass_02.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "534": {
+          "json": {
+            "src": "assets/scene/Models/artgallerymodel1/artgallerymodel1.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -1691,11 +1691,6 @@
             "value": "2nd_floor_image_1_2"
           }
         },
-        "522": {
-          "json": {
-            "value": "artgalleryl.glb"
-          }
-        },
         "524": {
           "json": {
             "value": "Ground"
@@ -1739,6 +1734,11 @@
         "533": {
           "json": {
             "value": "Ostrich Ferns"
+          }
+        },
+        "534": {
+          "json": {
+            "value": "artgallerymodel1.glb"
           }
         },
         "539": {
@@ -1838,13 +1838,13 @@
               "$case": "move",
               "move": {
                 "start": {
-                  "x": 13,
-                  "y": -0.03999999910593033,
+                  "x": 14.5,
+                  "y": 0.21000000834465027,
                   "z": 28.600000381469727
                 },
                 "end": {
-                  "x": 13,
-                  "y": 5.960000038146973,
+                  "x": 14.5,
+                  "y": 6.210000038146973,
                   "z": 28.600000381469727
                 }
               }
@@ -2340,13 +2340,13 @@
                   519,
                   520,
                   521,
-                  522,
                   524,
                   529,
                   530,
                   531,
                   533,
-                  539
+                  539,
+                  534
                 ]
               },
               {
@@ -2394,10 +2394,6 @@
                 "children": []
               },
               {
-                "entity": 522,
-                "children": []
-              },
-              {
                 "entity": 524,
                 "children": [
                   525,
@@ -2440,6 +2436,10 @@
               },
               {
                 "entity": 539,
+                "children": []
+              },
+              {
+                "entity": 534,
                 "children": []
               }
             ]
@@ -3096,9 +3096,6 @@
         "521": {
           "json": {}
         },
-        "522": {
-          "json": {}
-        },
         "524": {
           "json": {}
         },
@@ -3112,6 +3109,9 @@
           "json": {}
         },
         "533": {
+          "json": {}
+        },
+        "534": {
           "json": {}
         },
         "539": {
