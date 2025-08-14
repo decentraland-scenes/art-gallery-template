@@ -24,5 +24,5 @@ export enum EntityNames {
   Tile_2 = "Tile 2",
   Tile_3 = "Tile 3",
   Tile_4 = "Tile 4",
-  artgallerymodel1_glb = "artgallerymodel1.glb",
+  artgallerymodel3_glb = "artgallerymodel3.glb",
 } 
