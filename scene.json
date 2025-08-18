@@ -60,7 +60,9 @@
     "origin": "creator-hub",
     "projectId": "b4ae3646-ddc6-4c2c-9760-64c6248c09c2"
   },
-  "skyboxConfig": {},
+  "skyboxConfig": {
+    "fixedTime": 59100
+  },
   "worldConfiguration": {
     "name": "thecodingcave.dcl.eth"
   }

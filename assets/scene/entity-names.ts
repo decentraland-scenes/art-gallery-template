@@ -10,6 +10,7 @@ export enum EntityNames {
   _1st_floor_image_3 = "1st_floor_image_3",
   _1st_floor_image_4 = "1st_floor_image_4",
   _1st_floor_image_5 = "1st_floor_image_5",
+  _1st_floor_image_6 = "1st_floor_image_6",
   _2nd_floor_image_1 = "2nd_floor_image_1",
   _2nd_floor_image_1_2 = "2nd_floor_image_1_2",
   Custom_Text = "Custom_Text",
@@ -24,5 +25,5 @@ export enum EntityNames {
   Tile_2 = "Tile 2",
   Tile_3 = "Tile 3",
   Tile_4 = "Tile 4",
-  artgallerymodel3_glb = "artgallerymodel3.glb",
+  artgalleryfinalmodel_glb = "artgalleryfinalmodel.glb",
 } 
