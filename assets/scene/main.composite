@@ -345,9 +345,9 @@
         "524": {
           "json": {
             "position": {
-              "x": 0,
+              "x": 3.25,
               "y": 0,
-              "z": 0
+              "z": 24.5
             },
             "scale": {
               "x": 1,
@@ -361,90 +361,6 @@
               "w": 1
             },
             "parent": 0
-          }
-        },
-        "525": {
-          "json": {
-            "position": {
-              "x": 8,
-              "y": 0,
-              "z": 24
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 524
-          }
-        },
-        "526": {
-          "json": {
-            "position": {
-              "x": 24,
-              "y": 0,
-              "z": 24
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 524
-          }
-        },
-        "527": {
-          "json": {
-            "position": {
-              "x": 8,
-              "y": 0,
-              "z": 8
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 524
-          }
-        },
-        "528": {
-          "json": {
-            "position": {
-              "x": 24,
-              "y": 0,
-              "z": 8
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 524
           }
         },
         "529": {
@@ -573,6 +489,27 @@
             "parent": 0
           }
         },
+        "535": {
+          "json": {
+            "position": {
+              "x": 30.25,
+              "y": 0,
+              "z": 29
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "parent": 0
+          }
+        },
         "539": {
           "json": {
             "position": {
@@ -623,6 +560,12 @@
           "json": {
             "networkId": 0,
             "entityId": 8003
+          }
+        },
+        "535": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8004
           }
         }
       }
@@ -741,6 +684,11 @@
             "states": []
           }
         },
+        "535": {
+          "json": {
+            "states": []
+          }
+        },
         "539": {
           "json": {
             "states": []
@@ -778,32 +726,11 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
-        "525": {
+        "524": {
           "json": {
-            "src": "assets/asset-packs/bermuda_grass/FloorBaseGrass_01/FloorBaseGrass_01.glb",
+            "src": "assets/asset-packs/ambient_sound_-_birds/ambient_sound.glb",
             "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 2
-          }
-        },
-        "526": {
-          "json": {
-            "src": "assets/asset-packs/bermuda_grass/FloorBaseGrass_01/FloorBaseGrass_01.glb",
-            "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 2
-          }
-        },
-        "527": {
-          "json": {
-            "src": "assets/asset-packs/bermuda_grass/FloorBaseGrass_01/FloorBaseGrass_01.glb",
-            "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 2
-          }
-        },
-        "528": {
-          "json": {
-            "src": "assets/asset-packs/bermuda_grass/FloorBaseGrass_01/FloorBaseGrass_01.glb",
-            "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 2
+            "invisibleMeshesCollisionMask": 0
           }
         },
         "529": {
@@ -846,6 +773,13 @@
             "src": "assets/scene/Models/beam_bench/beam_bench.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "535": {
+          "json": {
+            "src": "assets/asset-packs/admin_tools/admin_toolkit.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 0
           }
         },
         "539": {
@@ -1957,27 +1891,7 @@
         },
         "524": {
           "json": {
-            "value": "Ground"
-          }
-        },
-        "525": {
-          "json": {
-            "value": "Tile 1"
-          }
-        },
-        "526": {
-          "json": {
-            "value": "Tile 2"
-          }
-        },
-        "527": {
-          "json": {
-            "value": "Tile 3"
-          }
-        },
-        "528": {
-          "json": {
-            "value": "Tile 4"
+            "value": "Ambient Sound - Birds_2"
           }
         },
         "529": {
@@ -2008,6 +1922,11 @@
         "534": {
           "json": {
             "value": "beam_bench_3"
+          }
+        },
+        "535": {
+          "json": {
+            "value": "Admin Tools"
           }
         },
         "539": {
@@ -2048,6 +1967,13 @@
               1030,
               1081,
               1042
+            ]
+          }
+        },
+        "535": {
+          "json": {
+            "componentIds": [
+              99929642
             ]
           }
         }
@@ -2136,6 +2062,27 @@
           "json": {
             "sequence": [],
             "loop": 1
+          }
+        }
+      }
+    },
+    {
+      "name": "core::VisibilityComponent",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBVisibilityComponent"
+      },
+      "data": {
+        "524": {
+          "json": {
+            "visible": false
+          }
+        },
+        "535": {
+          "json": {
+            "visible": false
           }
         }
       }
@@ -2616,7 +2563,6 @@
                   519,
                   520,
                   521,
-                  524,
                   529,
                   530,
                   531,
@@ -2625,7 +2571,9 @@
                   523,
                   532,
                   522,
-                  534
+                  534,
+                  535,
+                  524
                 ]
               },
               {
@@ -2673,31 +2621,6 @@
                 "children": []
               },
               {
-                "entity": 524,
-                "children": [
-                  525,
-                  526,
-                  527,
-                  528
-                ]
-              },
-              {
-                "entity": 525,
-                "children": []
-              },
-              {
-                "entity": 526,
-                "children": []
-              },
-              {
-                "entity": 527,
-                "children": []
-              },
-              {
-                "entity": 528,
-                "children": []
-              },
-              {
                 "entity": 529,
                 "children": []
               },
@@ -2735,6 +2658,14 @@
               },
               {
                 "entity": 534,
+                "children": []
+              },
+              {
+                "entity": 535,
+                "children": []
+              },
+              {
+                "entity": 524,
                 "children": []
               }
             ]
@@ -3050,6 +2981,32 @@
               }
             ]
           }
+        },
+        "524": {
+          "json": {
+            "id": 4,
+            "value": [
+              {
+                "name": "Play once",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/asset-packs/ambient_sound_-_birds/birds_(1).mp3\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Loop",
+                "type": "play_sound",
+                "jsonPayload": "{\"loop\":true,\"src\":\"assets/scene/Audio/ambient.mp3\"}",
+                "allowedInBasicView": true,
+                "basicViewId": "loop-sound"
+              },
+              {
+                "name": "Stop",
+                "type": "stop_sound",
+                "jsonPayload": "{}",
+                "allowedInBasicView": true
+              }
+            ]
+          }
         }
       }
     },
@@ -3073,7 +3030,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 2
+            "value": 4
           }
         }
       }
@@ -3287,6 +3244,23 @@
               }
             ]
           }
+        },
+        "524": {
+          "json": {
+            "value": [
+              {
+                "type": "on_spawn",
+                "conditions": [],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 4,
+                    "name": "Loop"
+                  }
+                ]
+              }
+            ]
+          }
         }
       }
     },
@@ -3343,6 +3317,263 @@
               "GoingToStart"
             ],
             "defaultValue": "GoingToEnd"
+          }
+        }
+      }
+    },
+    {
+      "name": "asset-packs::AdminTools",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "adminPermissions": {
+            "type": "string",
+            "enum": [
+              "PUBLIC",
+              "PRIVATE"
+            ],
+            "default": "PUBLIC",
+            "serializationType": "enum-string",
+            "enumObject": {
+              "PUBLIC": "PUBLIC",
+              "PRIVATE": "PRIVATE"
+            }
+          },
+          "authorizedAdminUsers": {
+            "type": "object",
+            "properties": {
+              "me": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "sceneOwners": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "allowList": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "adminAllowList": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "serializationType": "utf8-string"
+                },
+                "serializationType": "array"
+              }
+            },
+            "serializationType": "map"
+          },
+          "moderationControl": {
+            "type": "object",
+            "properties": {
+              "isEnabled": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "kickCoordinates": {
+                "type": "object",
+                "properties": {
+                  "x": {
+                    "type": "number",
+                    "serializationType": "float32"
+                  },
+                  "y": {
+                    "type": "number",
+                    "serializationType": "float32"
+                  },
+                  "z": {
+                    "type": "number",
+                    "serializationType": "float32"
+                  }
+                },
+                "serializationType": "map"
+              },
+              "allowNonOwnersManageAdminAllowList": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              }
+            },
+            "serializationType": "map"
+          },
+          "textAnnouncementControl": {
+            "type": "object",
+            "properties": {
+              "isEnabled": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "playSoundOnEachAnnouncement": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "showAuthorOnEachAnnouncement": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              }
+            },
+            "serializationType": "map"
+          },
+          "videoControl": {
+            "type": "object",
+            "properties": {
+              "isEnabled": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "disableVideoPlayersSound": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "showAuthorOnVideoPlayers": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "linkAllVideoPlayers": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "videoPlayers": {
+                "type": "array",
+                "serializationType": "optional",
+                "optionalJsonSchema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "entity": {
+                        "type": "integer",
+                        "serializationType": "int32"
+                      },
+                      "customName": {
+                        "type": "string",
+                        "serializationType": "utf8-string"
+                      }
+                    },
+                    "serializationType": "map"
+                  },
+                  "serializationType": "array"
+                }
+              }
+            },
+            "serializationType": "map"
+          },
+          "smartItemsControl": {
+            "type": "object",
+            "properties": {
+              "isEnabled": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "linkAllSmartItems": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "smartItems": {
+                "type": "array",
+                "serializationType": "optional",
+                "optionalJsonSchema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "entity": {
+                        "type": "integer",
+                        "serializationType": "int32"
+                      },
+                      "customName": {
+                        "type": "string",
+                        "serializationType": "utf8-string"
+                      },
+                      "defaultAction": {
+                        "type": "string",
+                        "serializationType": "utf8-string"
+                      }
+                    },
+                    "serializationType": "map"
+                  },
+                  "serializationType": "array"
+                }
+              }
+            },
+            "serializationType": "map"
+          },
+          "rewardsControl": {
+            "type": "object",
+            "properties": {
+              "isEnabled": {
+                "type": "boolean",
+                "serializationType": "boolean"
+              },
+              "rewardItems": {
+                "type": "array",
+                "serializationType": "optional",
+                "optionalJsonSchema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "entity": {
+                        "type": "integer",
+                        "serializationType": "int32"
+                      },
+                      "customName": {
+                        "type": "string",
+                        "serializationType": "utf8-string"
+                      }
+                    },
+                    "serializationType": "map"
+                  },
+                  "serializationType": "array"
+                }
+              }
+            },
+            "serializationType": "map"
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "535": {
+          "json": {
+            "adminPermissions": "PUBLIC",
+            "authorizedAdminUsers": {
+              "me": true,
+              "sceneOwners": true,
+              "allowList": true,
+              "adminAllowList": []
+            },
+            "moderationControl": {
+              "isEnabled": true,
+              "kickCoordinates": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "allowNonOwnersManageAdminAllowList": false
+            },
+            "textAnnouncementControl": {
+              "isEnabled": true,
+              "playSoundOnEachAnnouncement": true,
+              "showAuthorOnEachAnnouncement": true
+            },
+            "videoControl": {
+              "isEnabled": true,
+              "disableVideoPlayersSound": false,
+              "showAuthorOnVideoPlayers": true,
+              "linkAllVideoPlayers": false,
+              "videoPlayers": []
+            },
+            "smartItemsControl": {
+              "isEnabled": true,
+              "linkAllSmartItems": false,
+              "smartItems": []
+            },
+            "rewardsControl": {
+              "isEnabled": true,
+              "rewardItems": []
+            }
           }
         }
       }
@@ -3421,48 +3652,11 @@
         "534": {
           "json": {}
         },
+        "535": {
+          "json": {}
+        },
         "539": {
           "json": {}
-        }
-      }
-    },
-    {
-      "name": "inspector::Lock",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {
-          "value": {
-            "type": "boolean",
-            "serializationType": "boolean"
-          }
-        },
-        "serializationType": "map"
-      },
-      "data": {
-        "524": {
-          "json": {
-            "value": true
-          }
-        },
-        "525": {
-          "json": {
-            "value": true
-          }
-        },
-        "526": {
-          "json": {
-            "value": true
-          }
-        },
-        "527": {
-          "json": {
-            "value": true
-          }
-        },
-        "528": {
-          "json": {
-            "value": true
-          }
         }
       }
     },
@@ -3626,41 +3820,34 @@
             ],
             "assetId": "ef85eb18-f69c-431c-bcfd-dd51d70a604f"
           }
-        }
-      }
-    },
-    {
-      "name": "inspector::Ground",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "map"
-      },
-      "data": {
+        },
         "524": {
-          "json": {}
-        }
-      }
-    },
-    {
-      "name": "inspector::Tile",
-      "jsonSchema": {
-        "type": "object",
-        "properties": {},
-        "serializationType": "map"
-      },
-      "data": {
-        "525": {
-          "json": {}
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Ambient Sound",
+            "fields": [
+              {
+                "name": "Sound",
+                "type": "asset-packs::Actions",
+                "layout": "{\"src\": { \"field\": \"TextField\", \"type\": \"text\", \"label\": \"Sound Path\" }  , \"volume\": { \"field\": \"RangeField\", \"label\": \"Volume\", \"step\": \"0.01\", \"min\": \"0\", \"max\": \"1\", \"default\": \"1\" } }",
+                "basicViewId": "loop-sound"
+              }
+            ],
+            "assetId": "5c8b4646-6ec0-41a0-8e9b-415a58728a9e"
+          }
         },
-        "526": {
-          "json": {}
-        },
-        "527": {
-          "json": {}
-        },
-        "528": {
-          "json": {}
+        "535": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "Admin Tools",
+            "fields": [
+              {
+                "name": "Controls",
+                "type": "asset-packs::AdminTools"
+              }
+            ],
+            "assetId": "0c419cb9-bc21-4c51-977f-41a505a097f0"
+          }
         }
       }
     }
