@@ -261,20 +261,20 @@
         "520": {
           "json": {
             "position": {
-              "x": 20.799999237060547,
-              "y": 10.149999618530273,
+              "x": 21.049999237060547,
+              "y": 10.649999618530273,
               "z": 21.5
-            },
-            "scale": {
-              "x": 6,
-              "y": 6,
-              "z": 2
             },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "scale": {
+              "x": 10,
+              "y": 7,
+              "z": 2
             },
             "parent": 0
           }
@@ -368,18 +368,18 @@
             "position": {
               "x": 25.70001792907715,
               "y": 10.149999618530273,
-              "z": 17.00000762939453
-            },
-            "scale": {
-              "x": 5,
-              "y": 5,
-              "z": 2
+              "z": 17.25000762939453
             },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 8.899999618530273,
+              "y": 5,
+              "z": 2
             },
             "parent": 0
           }
@@ -1863,7 +1863,7 @@
       "data": {
         "520": {
           "json": {
-            "urn": "urn:decentraland:ethereum:erc721:0x16DeAe012f8BC5ff556005E0dCD2f682d3a4B6A8:8",
+            "urn": "urn:decentraland:ethereum:erc721:0x495f947276749ce646f68ac8c248420045cb7b5e:115197679510357789365306124210581380742503622176515607809089292177068032786433",
             "style": 22,
             "color": {
               "r": 1,
@@ -1874,7 +1874,7 @@
         },
         "525": {
           "json": {
-            "urn": "urn:decentraland:ethereum:erc721:0x1987e5B14Bf5863Cca1a71766eB590e5fC4954B5:6",
+            "urn": "urn:decentraland:ethereum:erc721:0x495f947276749ce646f68ac8c248420045cb7b5e:115197679510357789365306124210581380742503622176515607809089292171570474647553",
             "style": 22,
             "color": {
               "r": 1,
@@ -2065,9 +2065,9 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "525": {
           "json": {
-            "gizmo": 0
+            "gizmo": 1
           }
         }
       }
@@ -2400,12 +2400,14 @@
           "json": {
             "name": "Art Gallery Template",
             "description": "Empty Scene Template",
-            "thumbnail": "",
             "categories": [],
             "author": "SDK",
-            "email": "",
             "tags": [],
             "layout": {
+              "base": {
+                "x": 0,
+                "y": 0
+              },
               "parcels": [
                 {
                   "x": 0,
@@ -2423,14 +2425,8 @@
                   "x": 1,
                   "y": 0
                 }
-              ],
-              "base": {
-                "x": 0,
-                "y": 0
-              }
+              ]
             },
-            "silenceVoiceChat": false,
-            "disablePortableExperiences": false,
             "skyboxConfig": {
               "fixedTime": 59100
             },
