@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "513": {
+        "0": {
           "json": {
             "gizmo": 1
           }
@@ -2512,7 +2512,6 @@
             "value": [
               {
                 "entity": 0,
-                "open": true,
                 "children": [
                   523,
                   512,
