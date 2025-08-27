@@ -265,16 +265,37 @@
               "y": 10.149999618530273,
               "z": 21.5
             },
+            "scale": {
+              "x": 6,
+              "y": 6,
+              "z": 2
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
             },
+            "parent": 0
+          }
+        },
+        "521": {
+          "json": {
+            "position": {
+              "x": 20.95000457763672,
+              "y": 1.399999737739563,
+              "z": 24.45000457763672
+            },
             "scale": {
-              "x": 6,
-              "y": 6,
-              "z": 2
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
             },
             "parent": 0
           }
@@ -349,16 +370,37 @@
               "y": 10.149999618530273,
               "z": 17.00000762939453
             },
+            "scale": {
+              "x": 5,
+              "y": 5,
+              "z": 2
+            },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
             },
+            "parent": 0
+          }
+        },
+        "526": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.4500000476837158,
+              "z": 25.399999618530273
+            },
             "scale": {
-              "x": 5,
-              "y": 5,
-              "z": 2
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.1736481785774231,
+              "z": 0,
+              "w": -0.9848077297210693
             },
             "parent": 0
           }
@@ -510,6 +552,48 @@
             "parent": 0
           }
         },
+        "536": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.399999976158142,
+              "z": 24.5
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.11320321261882782,
+              "z": 0,
+              "w": -0.9935718774795532
+            },
+            "parent": 0
+          }
+        },
+        "537": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.4500000476837158,
+              "z": 23.600000381469727
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.09584575146436691,
+              "z": 0,
+              "w": -0.9953961968421936
+            },
+            "parent": 0
+          }
+        },
         "539": {
           "json": {
             "position": {
@@ -646,6 +730,11 @@
             "states": []
           }
         },
+        "521": {
+          "json": {
+            "states": []
+          }
+        },
         "522": {
           "json": {
             "states": []
@@ -662,6 +751,11 @@
           }
         },
         "525": {
+          "json": {
+            "states": []
+          }
+        },
+        "526": {
           "json": {
             "states": []
           }
@@ -701,6 +795,16 @@
             "states": []
           }
         },
+        "536": {
+          "json": {
+            "states": []
+          }
+        },
+        "537": {
+          "json": {
+            "states": []
+          }
+        },
         "539": {
           "json": {
             "states": []
@@ -724,6 +828,13 @@
             "invisibleMeshesCollisionMask": 2
           }
         },
+        "521": {
+          "json": {
+            "src": "assets/scene/Models/shelf/shelf.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "522": {
           "json": {
             "src": "assets/scene/Models/beam_bench/beam_bench.glb",
@@ -743,6 +854,13 @@
             "src": "assets/asset-packs/ambient_sound_-_birds/ambient_sound.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 0
+          }
+        },
+        "526": {
+          "json": {
+            "src": "assets/asset-packs/discord_link/discord.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
           }
         },
         "529": {
@@ -792,6 +910,20 @@
             "src": "assets/asset-packs/admin_tools/admin_toolkit.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 0
+          }
+        },
+        "536": {
+          "json": {
+            "src": "assets/asset-packs/twitter_link/twitter.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "537": {
+          "json": {
+            "src": "assets/asset-packs/youtube_link/youtube.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
           }
         },
         "539": {
@@ -1638,6 +1770,11 @@
             "value": "NFT_2"
           }
         },
+        "521": {
+          "json": {
+            "value": "shelf.glb"
+          }
+        },
         "522": {
           "json": {
             "value": "beam_bench_2"
@@ -1656,6 +1793,11 @@
         "525": {
           "json": {
             "value": "NFT"
+          }
+        },
+        "526": {
+          "json": {
+            "value": "Discord Link"
           }
         },
         "529": {
@@ -1691,6 +1833,16 @@
         "535": {
           "json": {
             "value": "Admin Tools"
+          }
+        },
+        "536": {
+          "json": {
+            "value": "Twitter Link"
+          }
+        },
+        "537": {
+          "json": {
+            "value": "YouTube Link"
           }
         },
         "539": {
@@ -1913,9 +2065,9 @@
         "serializationType": "map"
       },
       "data": {
-        "520": {
+        "0": {
           "json": {
-            "gizmo": 1
+            "gizmo": 0
           }
         }
       }
@@ -2248,14 +2400,12 @@
           "json": {
             "name": "Art Gallery Template",
             "description": "Empty Scene Template",
+            "thumbnail": "",
             "categories": [],
             "author": "SDK",
+            "email": "",
             "tags": [],
             "layout": {
-              "base": {
-                "x": 0,
-                "y": 0
-              },
               "parcels": [
                 {
                   "x": 0,
@@ -2273,8 +2423,14 @@
                   "x": 1,
                   "y": 0
                 }
-              ]
+              ],
+              "base": {
+                "x": 0,
+                "y": 0
+              }
             },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
             "skyboxConfig": {
               "fixedTime": 59100
             },
@@ -2360,6 +2516,7 @@
             "value": [
               {
                 "entity": 0,
+                "open": true,
                 "children": [
                   523,
                   512,
@@ -2381,7 +2538,11 @@
                   535,
                   524,
                   525,
-                  520
+                  520,
+                  521,
+                  526,
+                  536,
+                  537
                 ]
               },
               {
@@ -2474,6 +2635,22 @@
               },
               {
                 "entity": 520,
+                "children": []
+              },
+              {
+                "entity": 521,
+                "children": []
+              },
+              {
+                "entity": 526,
+                "children": []
+              },
+              {
+                "entity": 536,
+                "children": []
+              },
+              {
+                "entity": 537,
                 "children": []
               }
             ]
@@ -2815,6 +2992,42 @@
               }
             ]
           }
+        },
+        "526": {
+          "json": {
+            "id": 5,
+            "value": [
+              {
+                "name": "Open Link",
+                "type": "open_link",
+                "jsonPayload": "{ \"url\": \"https://discord.com\" }"
+              }
+            ]
+          }
+        },
+        "536": {
+          "json": {
+            "id": 8,
+            "value": [
+              {
+                "name": "Open Link",
+                "type": "open_link",
+                "jsonPayload": "{ \"url\": \"https://twitter.com\" }"
+              }
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "id": 9,
+            "value": [
+              {
+                "name": "Open Link",
+                "type": "open_link",
+                "jsonPayload": "{ \"url\": \"https://youtube.com\" }"
+              }
+            ]
+          }
         }
       }
     },
@@ -2838,7 +3051,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 4
+            "value": 9
           }
         }
       }
@@ -3064,6 +3277,54 @@
                   {
                     "id": 4,
                     "name": "Loop"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "526": {
+          "json": {
+            "value": [
+              {
+                "type": "on_click",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 5,
+                    "name": "Open Link"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "536": {
+          "json": {
+            "value": [
+              {
+                "type": "on_click",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 8,
+                    "name": "Open Link"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "537": {
+          "json": {
+            "value": [
+              {
+                "type": "on_click",
+                "conditions": [],
+                "actions": [
+                  {
+                    "id": 9,
+                    "name": "Open Link"
                   }
                 ]
               }
@@ -3430,6 +3691,9 @@
         "520": {
           "json": {}
         },
+        "521": {
+          "json": {}
+        },
         "522": {
           "json": {}
         },
@@ -3440,6 +3704,9 @@
           "json": {}
         },
         "525": {
+          "json": {}
+        },
+        "526": {
           "json": {}
         },
         "529": {
@@ -3461,6 +3728,12 @@
           "json": {}
         },
         "535": {
+          "json": {}
+        },
+        "536": {
+          "json": {}
+        },
+        "537": {
           "json": {}
         },
         "539": {
