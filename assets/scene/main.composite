@@ -261,41 +261,20 @@
         "520": {
           "json": {
             "position": {
-              "x": 25.75,
-              "y": 10,
-              "z": 17.25
-            },
-            "scale": {
-              "x": 4.5,
-              "y": 2.700000047683716,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": 0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "521": {
-          "json": {
-            "position": {
-              "x": 21.25,
-              "y": 10.75,
-              "z": 21.25
-            },
-            "scale": {
-              "x": 5,
-              "y": 3,
-              "z": 1
+              "x": 20.799999237060547,
+              "y": 10.149999618530273,
+              "z": 21.5
             },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "scale": {
+              "x": 6,
+              "y": 6,
+              "z": 2
             },
             "parent": 0
           }
@@ -328,16 +307,16 @@
               "y": 0,
               "z": 0
             },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
             },
             "parent": 0
           }
@@ -359,6 +338,27 @@
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "525": {
+          "json": {
+            "position": {
+              "x": 25.70001792907715,
+              "y": 10.149999618530273,
+              "z": 17.00000762939453
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 5,
+              "y": 5,
+              "z": 2
             },
             "parent": 0
           }
@@ -562,6 +562,18 @@
             "entityId": 8003
           }
         },
+        "520": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8006
+          }
+        },
+        "525": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8005
+          }
+        },
         "535": {
           "json": {
             "networkId": 0,
@@ -634,11 +646,6 @@
             "states": []
           }
         },
-        "521": {
-          "json": {
-            "states": []
-          }
-        },
         "522": {
           "json": {
             "states": []
@@ -650,6 +657,11 @@
           }
         },
         "524": {
+          "json": {
+            "states": []
+          }
+        },
+        "525": {
           "json": {
             "states": []
           }
@@ -1429,216 +1441,6 @@
               }
             }
           }
-        },
-        "520": {
-          "json": {
-            "material": {
-              "$case": "pbr",
-              "pbr": {
-                "texture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_10.jpg",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "alphaTest": 0.5,
-                "castShadows": true,
-                "alphaTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "emissiveTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "bumpTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "albedoColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-                },
-                "emissiveColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "reflectivityColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "transparencyMode": 4,
-                "metallic": 0.5,
-                "roughness": 0.5,
-                "specularIntensity": 1,
-                "emissiveIntensity": 0,
-                "directIntensity": 1
-              }
-            }
-          }
-        },
-        "521": {
-          "json": {
-            "material": {
-              "$case": "pbr",
-              "pbr": {
-                "texture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_11.jpg",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "alphaTest": 0.5,
-                "castShadows": true,
-                "alphaTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "emissiveTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "bumpTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "albedoColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-                },
-                "emissiveColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "reflectivityColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "transparencyMode": 4,
-                "metallic": 0.5,
-                "roughness": 0.5,
-                "specularIntensity": 1,
-                "emissiveIntensity": 0,
-                "directIntensity": 1
-              }
-            }
-          }
         }
       }
     },
@@ -1697,24 +1499,6 @@
           }
         },
         "518": {
-          "json": {
-            "collisionMask": 1,
-            "mesh": {
-              "$case": "plane",
-              "plane": {}
-            }
-          }
-        },
-        "520": {
-          "json": {
-            "collisionMask": 1,
-            "mesh": {
-              "$case": "plane",
-              "plane": {}
-            }
-          }
-        },
-        "521": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1793,26 +1577,6 @@
               }
             }
           }
-        },
-        "520": {
-          "json": {
-            "mesh": {
-              "$case": "plane",
-              "plane": {
-                "uvs": []
-              }
-            }
-          }
-        },
-        "521": {
-          "json": {
-            "mesh": {
-              "$case": "plane",
-              "plane": {
-                "uvs": []
-              }
-            }
-          }
         }
       }
     },
@@ -1871,12 +1635,7 @@
         },
         "520": {
           "json": {
-            "value": "2nd_floor_image_1"
-          }
-        },
-        "521": {
-          "json": {
-            "value": "2nd_floor_image_1_2"
+            "value": "NFT_2"
           }
         },
         "522": {
@@ -1892,6 +1651,11 @@
         "524": {
           "json": {
             "value": "Ambient Sound"
+          }
+        },
+        "525": {
+          "json": {
+            "value": "NFT"
           }
         },
         "529": {
@@ -1937,6 +1701,39 @@
       }
     },
     {
+      "name": "core::NftShape",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {},
+        "serializationType": "protocol-buffer",
+        "protocolBuffer": "PBNftShape"
+      },
+      "data": {
+        "520": {
+          "json": {
+            "urn": "urn:decentraland:ethereum:erc721:0x16DeAe012f8BC5ff556005E0dCD2f682d3a4B6A8:8",
+            "style": 22,
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          }
+        },
+        "525": {
+          "json": {
+            "urn": "urn:decentraland:ethereum:erc721:0x1987e5B14Bf5863Cca1a71766eB590e5fC4954B5:6",
+            "style": 22,
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          }
+        }
+      }
+    },
+    {
       "name": "core-schema::Sync-Components",
       "jsonSchema": {
         "type": "object",
@@ -1967,6 +1764,22 @@
               1030,
               1081,
               1042
+            ]
+          }
+        },
+        "520": {
+          "json": {
+            "componentIds": [
+              1040,
+              1081
+            ]
+          }
+        },
+        "525": {
+          "json": {
+            "componentIds": [
+              1040,
+              1081
             ]
           }
         },
@@ -2100,9 +1913,9 @@
         "serializationType": "map"
       },
       "data": {
-        "524": {
+        "520": {
           "json": {
-            "gizmo": 0
+            "gizmo": 1
           }
         }
       }
@@ -2547,7 +2360,6 @@
             "value": [
               {
                 "entity": 0,
-                "open": true,
                 "children": [
                   523,
                   512,
@@ -2558,8 +2370,6 @@
                   518,
                   514,
                   519,
-                  520,
-                  521,
                   529,
                   530,
                   531,
@@ -2569,7 +2379,9 @@
                   522,
                   534,
                   535,
-                  524
+                  524,
+                  525,
+                  520
                 ]
               },
               {
@@ -2606,14 +2418,6 @@
               },
               {
                 "entity": 519,
-                "children": []
-              },
-              {
-                "entity": 520,
-                "children": []
-              },
-              {
-                "entity": 521,
                 "children": []
               },
               {
@@ -2662,6 +2466,14 @@
               },
               {
                 "entity": 523,
+                "children": []
+              },
+              {
+                "entity": 525,
+                "children": []
+              },
+              {
+                "entity": 520,
                 "children": []
               }
             ]
@@ -3618,9 +3430,6 @@
         "520": {
           "json": {}
         },
-        "521": {
-          "json": {}
-        },
         "522": {
           "json": {}
         },
@@ -3628,6 +3437,9 @@
           "json": {}
         },
         "524": {
+          "json": {}
+        },
+        "525": {
           "json": {}
         },
         "529": {
@@ -3817,6 +3629,19 @@
             "assetId": "ef85eb18-f69c-431c-bcfd-dd51d70a604f"
           }
         },
+        "520": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "NFT Portrait",
+            "fields": [
+              {
+                "name": "NFT Portrait",
+                "type": "core::NftShape"
+              }
+            ],
+            "assetId": "dbffd66a-8c1f-4b34-bed4-c71ab5cb4024"
+          }
+        },
         "524": {
           "json": {
             "isBasicViewEnabled": true,
@@ -3830,6 +3655,19 @@
               }
             ],
             "assetId": "5c8b4646-6ec0-41a0-8e9b-415a58728a9e"
+          }
+        },
+        "525": {
+          "json": {
+            "isBasicViewEnabled": false,
+            "componentName": "NFT Portrait",
+            "fields": [
+              {
+                "name": "NFT Portrait",
+                "type": "core::NftShape"
+              }
+            ],
+            "assetId": "dbffd66a-8c1f-4b34-bed4-c71ab5cb4024"
           }
         },
         "535": {
