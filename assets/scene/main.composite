@@ -118,16 +118,16 @@
               "y": 4.25,
               "z": 7.5
             },
+            "scale": {
+              "x": 7,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
-            },
-            "scale": {
-              "x": 7,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -200,18 +200,18 @@
             "position": {
               "x": 2,
               "y": 4.25,
-              "z": 6.5
-            },
-            "scale": {
-              "x": 4,
-              "y": 5,
-              "z": 1
+              "z": 5.949999809265137
             },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": -0.7071067690849304
+            },
+            "scale": {
+              "x": 4,
+              "y": 5,
+              "z": 1
             },
             "parent": 0
           }
@@ -1373,7 +1373,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_14.jpg",
+                      "src": "assets/scene/Images/decentraland_painting_16.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "517": {
           "json": {
             "gizmo": 1
           }
@@ -2512,6 +2512,7 @@
             "value": [
               {
                 "entity": 0,
+                "open": true,
                 "children": [
                   523,
                   512,
