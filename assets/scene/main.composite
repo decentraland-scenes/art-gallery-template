@@ -328,16 +328,16 @@
               "y": 0,
               "z": 0
             },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
             },
             "parent": 0
           }
@@ -721,7 +721,7 @@
         },
         "523": {
           "json": {
-            "src": "assets/scene/Models/artgallery/artgallery.glb",
+            "src": "assets/scene/Models/art_gallery/art_gallery.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -1886,12 +1886,12 @@
         },
         "523": {
           "json": {
-            "value": "artgallery.glb"
+            "value": "art_gallery.glb"
           }
         },
         "524": {
           "json": {
-            "value": "Ambient Sound - Birds_2"
+            "value": "Ambient Sound"
           }
         },
         "529": {
@@ -2100,7 +2100,7 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "524": {
           "json": {
             "gizmo": 0
           }
@@ -2435,12 +2435,14 @@
           "json": {
             "name": "Art Gallery Template",
             "description": "Empty Scene Template",
-            "thumbnail": "",
             "categories": [],
             "author": "SDK",
-            "email": "",
             "tags": [],
             "layout": {
+              "base": {
+                "x": 0,
+                "y": 0
+              },
               "parcels": [
                 {
                   "x": 0,
@@ -2458,14 +2460,8 @@
                   "x": 1,
                   "y": 0
                 }
-              ],
-              "base": {
-                "x": 0,
-                "y": 0
-              }
+              ]
             },
-            "silenceVoiceChat": false,
-            "disablePortableExperiences": false,
             "skyboxConfig": {
               "fixedTime": 59100
             },
@@ -2553,6 +2549,7 @@
                 "entity": 0,
                 "open": true,
                 "children": [
+                  523,
                   512,
                   513,
                   515,
@@ -2568,7 +2565,6 @@
                   531,
                   533,
                   539,
-                  523,
                   532,
                   522,
                   534,
@@ -2645,10 +2641,6 @@
                 "children": []
               },
               {
-                "entity": 523,
-                "children": []
-              },
-              {
                 "entity": 532,
                 "children": []
               },
@@ -2666,6 +2658,10 @@
               },
               {
                 "entity": 524,
+                "children": []
+              },
+              {
+                "entity": 523,
                 "children": []
               }
             ]
@@ -2995,7 +2991,7 @@
               {
                 "name": "Loop",
                 "type": "play_sound",
-                "jsonPayload": "{\"loop\":true,\"src\":\"assets/scene/Audio/ambient.mp3\"}",
+                "jsonPayload": "{\"loop\":true,\"src\":\"assets/scene/Audio/ambient.mp3\",\"volume\":\"1\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "loop-sound"
               },
