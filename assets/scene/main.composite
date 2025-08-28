@@ -559,16 +559,16 @@
               "y": 1.4500000476837158,
               "z": 24.5
             },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
             "rotation": {
               "x": 0,
               "y": 0.11320321261882782,
               "z": 0,
               "w": -0.9935718774795532
-            },
-            "scale": {
-              "x": 0.4000000059604645,
-              "y": 0.4000000059604645,
-              "z": 0.4000000059604645
             },
             "parent": 0
           }
@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "514": {
+        "0": {
           "json": {
             "gizmo": 0
           }
@@ -2512,7 +2512,6 @@
             "value": [
               {
                 "entity": 0,
-                "open": true,
                 "children": [
                   523,
                   512,
@@ -3734,6 +3733,26 @@
         },
         "539": {
           "json": {}
+        }
+      }
+    },
+    {
+      "name": "inspector::Lock",
+      "jsonSchema": {
+        "type": "object",
+        "properties": {
+          "value": {
+            "type": "boolean",
+            "serializationType": "boolean"
+          }
+        },
+        "serializationType": "map"
+      },
+      "data": {
+        "523": {
+          "json": {
+            "value": true
+          }
         }
       }
     },
