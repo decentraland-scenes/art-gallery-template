@@ -202,16 +202,16 @@
               "y": 4.25,
               "z": 5.949999809265137
             },
+            "scale": {
+              "x": 4,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 0.7071067690849304,
               "z": 0,
               "w": -0.7071067690849304
-            },
-            "scale": {
-              "x": 4,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -556,19 +556,19 @@
           "json": {
             "position": {
               "x": 20.899999618530273,
-              "y": 1.399999976158142,
+              "y": 1.4500000476837158,
               "z": 24.5
-            },
-            "scale": {
-              "x": 0.4000000059604645,
-              "y": 0.4000000059604645,
-              "z": 0.4000000059604645
             },
             "rotation": {
               "x": 0,
               "y": 0.11320321261882782,
               "z": 0,
               "w": -0.9935718774795532
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
             },
             "parent": 0
           }
@@ -953,7 +953,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_19.jpg",
+                      "src": "https://i.postimg.cc/CMHfFwmW/decentraland-painting-19.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -1058,7 +1058,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_14.jpg",
+                      "src": "https://i.postimg.cc/3NBy9ZkK/decentraland-painting-14.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -1163,7 +1163,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_20.jpg",
+                      "src": "https://i.postimg.cc/yY13x2GW/decentraland-painting-20.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -1268,7 +1268,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_21.jpg",
+                      "src": "https://i.postimg.cc/zXxbg0m7/decentraland-painting-21.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -1373,7 +1373,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_16.jpg",
+                      "src": "https://i.postimg.cc/xCLNNQYN/decentraland-painting-16.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -1478,7 +1478,7 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_18.jpg",
+                      "src": "https://i.postimg.cc/sxyQpLD6/decentraland-painting-18.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
                       "offset": {
@@ -2065,9 +2065,9 @@
         "serializationType": "map"
       },
       "data": {
-        "517": {
+        "514": {
           "json": {
-            "gizmo": 1
+            "gizmo": 0
           }
         }
       }
