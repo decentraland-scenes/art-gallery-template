@@ -2400,14 +2400,12 @@
           "json": {
             "name": "Art Gallery Template",
             "description": "Empty Scene Template",
+            "thumbnail": "",
             "categories": [],
             "author": "SDK",
+            "email": "",
             "tags": [],
             "layout": {
-              "base": {
-                "x": 0,
-                "y": 0
-              },
               "parcels": [
                 {
                   "x": 0,
@@ -2425,8 +2423,14 @@
                   "x": 1,
                   "y": 0
                 }
-              ]
+              ],
+              "base": {
+                "x": 0,
+                "y": 0
+              }
             },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
             "skyboxConfig": {
               "fixedTime": 59100
             },
