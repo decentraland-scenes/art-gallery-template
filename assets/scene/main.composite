@@ -216,27 +216,6 @@
             "parent": 0
           }
         },
-        "524": {
-          "json": {
-            "position": {
-              "x": 3.25,
-              "y": 0,
-              "z": 24.5
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 0
-          }
-        },
         "525": {
           "json": {
             "position": {
@@ -614,6 +593,27 @@
             },
             "parent": 0
           }
+        },
+        "544": {
+          "json": {
+            "position": {
+              "x": 2.75,
+              "y": 1,
+              "z": 24.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
         }
       }
     },
@@ -715,11 +715,6 @@
             "states": []
           }
         },
-        "524": {
-          "json": {
-            "states": []
-          }
-        },
         "525": {
           "json": {
             "states": []
@@ -809,6 +804,11 @@
           "json": {
             "states": []
           }
+        },
+        "544": {
+          "json": {
+            "states": []
+          }
         }
       }
     },
@@ -847,13 +847,6 @@
             "src": "assets/scene/Models/art_gallery/art_gallery.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
-          }
-        },
-        "524": {
-          "json": {
-            "src": "assets/asset-packs/ambient_sound_-_birds/ambient_sound.glb",
-            "visibleMeshesCollisionMask": 1,
-            "invisibleMeshesCollisionMask": 0
           }
         },
         "526": {
@@ -931,6 +924,13 @@
             "src": "assets/asset-packs/green_sycamore_tree/TreeSycamore_03/TreeSycamore_03.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "544": {
+          "json": {
+            "src": "assets/asset-packs/ambient_sound_-_forest_birds/ambient_sound.glb",
+            "visibleMeshesCollisionMask": 1,
+            "invisibleMeshesCollisionMask": 0
           }
         }
       }
@@ -1755,11 +1755,6 @@
             "value": "art_gallery.glb"
           }
         },
-        "524": {
-          "json": {
-            "value": "Ambient Sound"
-          }
-        },
         "525": {
           "json": {
             "value": "NFT"
@@ -1848,6 +1843,11 @@
         "542": {
           "json": {
             "value": "Custom_Text"
+          }
+        },
+        "544": {
+          "json": {
+            "value": "Ambient Sound"
           }
         }
       }
@@ -2040,12 +2040,12 @@
         "protocolBuffer": "PBVisibilityComponent"
       },
       "data": {
-        "524": {
+        "535": {
           "json": {
             "visible": false
           }
         },
-        "535": {
+        "544": {
           "json": {
             "visible": false
           }
@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "542": {
+        "544": {
           "json": {
             "gizmo": 0
           }
@@ -2532,13 +2532,13 @@
                   522,
                   534,
                   535,
-                  524,
                   525,
                   520,
                   521,
                   526,
                   536,
-                  537
+                  537,
+                  544
                 ]
               },
               {
@@ -2587,10 +2587,6 @@
               },
               {
                 "entity": 535,
-                "children": []
-              },
-              {
-                "entity": 524,
                 "children": []
               },
               {
@@ -2647,6 +2643,10 @@
               },
               {
                 "entity": 542,
+                "children": []
+              },
+              {
+                "entity": 544,
                 "children": []
               }
             ]
@@ -2971,32 +2971,6 @@
             ]
           }
         },
-        "524": {
-          "json": {
-            "id": 4,
-            "value": [
-              {
-                "name": "Play once",
-                "type": "play_sound",
-                "jsonPayload": "{\"src\":\"assets/asset-packs/ambient_sound_-_birds/birds_(1).mp3\"}",
-                "allowedInBasicView": true
-              },
-              {
-                "name": "Loop",
-                "type": "play_sound",
-                "jsonPayload": "{\"loop\":true,\"src\":\"assets/scene/Audio/ambient.mp3\",\"volume\":\"1\"}",
-                "allowedInBasicView": true,
-                "basicViewId": "loop-sound"
-              },
-              {
-                "name": "Stop",
-                "type": "stop_sound",
-                "jsonPayload": "{}",
-                "allowedInBasicView": true
-              }
-            ]
-          }
-        },
         "526": {
           "json": {
             "id": 5,
@@ -3032,6 +3006,32 @@
               }
             ]
           }
+        },
+        "544": {
+          "json": {
+            "id": 11,
+            "value": [
+              {
+                "name": "Play once",
+                "type": "play_sound",
+                "jsonPayload": "{\"src\":\"assets/asset-packs/ambient_sound_-_forest_birds/birds_(1).mp3\"}",
+                "allowedInBasicView": true
+              },
+              {
+                "name": "Loop",
+                "type": "play_sound",
+                "jsonPayload": "{\"loop\":true,\"src\":\"assets/scene/Audio/ambient.mp3\"}",
+                "allowedInBasicView": true,
+                "basicViewId": "loop-sound"
+              },
+              {
+                "name": "Stop",
+                "type": "stop_sound",
+                "jsonPayload": "{}",
+                "allowedInBasicView": true
+              }
+            ]
+          }
         }
       }
     },
@@ -3055,7 +3055,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 9
+            "value": 11
           }
         }
       }
@@ -3270,23 +3270,6 @@
             ]
           }
         },
-        "524": {
-          "json": {
-            "value": [
-              {
-                "type": "on_spawn",
-                "conditions": [],
-                "operation": "and",
-                "actions": [
-                  {
-                    "id": 4,
-                    "name": "Loop"
-                  }
-                ]
-              }
-            ]
-          }
-        },
         "526": {
           "json": {
             "value": [
@@ -3329,6 +3312,23 @@
                   {
                     "id": 9,
                     "name": "Open Link"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "544": {
+          "json": {
+            "value": [
+              {
+                "type": "on_spawn",
+                "conditions": [],
+                "operation": "and",
+                "actions": [
+                  {
+                    "id": 11,
+                    "name": "Loop"
                   }
                 ]
               }
@@ -3686,9 +3686,6 @@
         "523": {
           "json": {}
         },
-        "524": {
-          "json": {}
-        },
         "525": {
           "json": {}
         },
@@ -3741,6 +3738,9 @@
           "json": {}
         },
         "542": {
+          "json": {}
+        },
+        "544": {
           "json": {}
         }
       }
@@ -4336,21 +4336,6 @@
             "assetId": "dbffd66a-8c1f-4b34-bed4-c71ab5cb4024"
           }
         },
-        "524": {
-          "json": {
-            "isBasicViewEnabled": true,
-            "componentName": "Ambient Sound",
-            "fields": [
-              {
-                "name": "Sound",
-                "type": "asset-packs::Actions",
-                "layout": "{\"src\": { \"field\": \"TextField\", \"type\": \"text\", \"label\": \"Sound Path\" }  , \"volume\": { \"field\": \"RangeField\", \"label\": \"Volume\", \"step\": \"0.01\", \"min\": \"0\", \"max\": \"1\", \"default\": \"1\" } }",
-                "basicViewId": "loop-sound"
-              }
-            ],
-            "assetId": "5c8b4646-6ec0-41a0-8e9b-415a58728a9e"
-          }
-        },
         "525": {
           "json": {
             "isBasicViewEnabled": false,
@@ -4593,6 +4578,58 @@
                   }
                 ],
                 "columns": 2
+              }
+            ],
+            "version": 2
+          }
+        },
+        "544": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "5c8b4646-6ec0-41a0-8e9b-415a58728a9e",
+            "label": "Ambient Sound",
+            "sections": [
+              {
+                "id": "sound",
+                "items": [
+                  {
+                    "component": "asset-packs::Actions",
+                    "widget": "FileUploadField",
+                    "label": "Sound Path",
+                    "path": "src",
+                    "basicViewId": "loop-sound"
+                  },
+                  {
+                    "component": "asset-packs::Actions",
+                    "widget": "RangeField",
+                    "label": "Volume",
+                    "path": "volume",
+                    "basicViewId": "loop-sound",
+                    "constraints": {
+                      "max": 1,
+                      "step": 0.009999999776482582,
+                      "default": "1"
+                    },
+                    "transform": {
+                      "in": {
+                        "steps": [
+                          {
+                            "op": "toPercentage"
+                          }
+                        ]
+                      },
+                      "out": {
+                        "steps": [
+                          {
+                            "op": "fromPercentage"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
               }
             ],
             "version": 2

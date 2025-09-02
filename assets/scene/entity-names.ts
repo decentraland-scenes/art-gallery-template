@@ -13,6 +13,7 @@ export enum EntityNames {
   _1st_floor_image_6 = "1st_floor_image_6",
   Admin_Tools = "Admin Tools",
   Ambient_Sound = "Ambient Sound",
+  Ambient_Sound___Forest_Birds = "Ambient Sound - Forest Birds",
   Custom_Text = "Custom_Text",
   Discord_Link = "Discord Link",
   Elevator = "Elevator",
