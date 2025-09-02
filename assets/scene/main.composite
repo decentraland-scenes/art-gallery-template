@@ -114,146 +114,20 @@
         "513": {
           "json": {
             "position": {
-              "x": 30.0000057220459,
-              "y": 4.25,
-              "z": 7.5
-            },
-            "scale": {
-              "x": 7,
-              "y": 5,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": 0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "514": {
-          "json": {
-            "position": {
-              "x": 25.75,
-              "y": 3.25,
-              "z": 17.25
-            },
-            "scale": {
-              "x": 4.599999904632568,
-              "y": 4,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": 0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "515": {
-          "json": {
-            "position": {
               "x": 20.75,
               "y": 4.25,
               "z": 1.5
             },
-            "scale": {
-              "x": 6,
-              "y": 5,
-              "z": 1
-            },
             "rotation": {
               "x": 0,
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "parent": 0
-          }
-        },
-        "516": {
-          "json": {
-            "position": {
-              "x": 10.5,
-              "y": 4.25,
-              "z": 1.5
-            },
-            "scale": {
-              "x": 6,
-              "y": 5,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
-            },
-            "parent": 0
-          }
-        },
-        "517": {
-          "json": {
-            "position": {
-              "x": 2,
-              "y": 4.25,
-              "z": 5.949999809265137
-            },
-            "scale": {
-              "x": 4,
-              "y": 5,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": -0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "518": {
-          "json": {
-            "position": {
-              "x": 5.5,
-              "y": 4.25,
-              "z": 17.899999618530273
             },
             "scale": {
               "x": 7,
               "y": 5,
               "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.7071067690849304,
-              "z": 0,
-              "w": -0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "519": {
-          "json": {
-            "position": {
-              "x": 25.5,
-              "y": 10,
-              "z": 22
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 3
-            },
-            "rotation": {
-              "x": 0,
-              "y": 1,
-              "z": 0,
-              "w": 5.551115123125783e-17
             },
             "parent": 0
           }
@@ -401,6 +275,48 @@
               "y": 0.1736481785774231,
               "z": 0,
               "w": -0.9848077297210693
+            },
+            "parent": 0
+          }
+        },
+        "527": {
+          "json": {
+            "position": {
+              "x": 30,
+              "y": 4.25,
+              "z": 7.5
+            },
+            "scale": {
+              "x": 7,
+              "y": 5,
+              "z": 1
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "parent": 0
+          }
+        },
+        "528": {
+          "json": {
+            "position": {
+              "x": 10.5,
+              "y": 4.25,
+              "z": 1.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 6,
+              "y": 5,
+              "z": 1
             },
             "parent": 0
           }
@@ -594,6 +510,27 @@
             "parent": 0
           }
         },
+        "538": {
+          "json": {
+            "position": {
+              "x": 2,
+              "y": 4.25,
+              "z": 5.949999809265137
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": -0.7071067690849304
+            },
+            "scale": {
+              "x": 4,
+              "y": 5,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
         "539": {
           "json": {
             "position": {
@@ -611,6 +548,69 @@
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "540": {
+          "json": {
+            "position": {
+              "x": 5.5,
+              "y": 4.25,
+              "z": 17.899999618530273
+            },
+            "scale": {
+              "x": 7,
+              "y": 5,
+              "z": 5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": -0.7071067690849304
+            },
+            "parent": 0
+          }
+        },
+        "541": {
+          "json": {
+            "position": {
+              "x": 25.75,
+              "y": 3.25,
+              "z": 17.25
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.7071067690849304,
+              "z": 0,
+              "w": 0.7071067690849304
+            },
+            "scale": {
+              "x": 4.599999904632568,
+              "y": 4,
+              "z": 5
+            },
+            "parent": 0
+          }
+        },
+        "542": {
+          "json": {
+            "position": {
+              "x": 25.5,
+              "y": 10,
+              "z": 22
+            },
+            "rotation": {
+              "x": 0,
+              "y": 1,
+              "z": 0,
+              "w": 6.123234262925839e-17
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 3
             },
             "parent": 0
           }
@@ -640,12 +640,6 @@
             "entityId": 8002
           }
         },
-        "519": {
-          "json": {
-            "networkId": 0,
-            "entityId": 8003
-          }
-        },
         "520": {
           "json": {
             "networkId": 0,
@@ -662,6 +656,12 @@
           "json": {
             "networkId": 0,
             "entityId": 8004
+          }
+        },
+        "542": {
+          "json": {
+            "networkId": 0,
+            "entityId": 8007
           }
         }
       }
@@ -691,36 +691,6 @@
           }
         },
         "513": {
-          "json": {
-            "states": []
-          }
-        },
-        "514": {
-          "json": {
-            "states": []
-          }
-        },
-        "515": {
-          "json": {
-            "states": []
-          }
-        },
-        "516": {
-          "json": {
-            "states": []
-          }
-        },
-        "517": {
-          "json": {
-            "states": []
-          }
-        },
-        "518": {
-          "json": {
-            "states": []
-          }
-        },
-        "519": {
           "json": {
             "states": []
           }
@@ -756,6 +726,16 @@
           }
         },
         "526": {
+          "json": {
+            "states": []
+          }
+        },
+        "527": {
+          "json": {
+            "states": []
+          }
+        },
+        "528": {
           "json": {
             "states": []
           }
@@ -805,7 +785,27 @@
             "states": []
           }
         },
+        "538": {
+          "json": {
+            "states": []
+          }
+        },
         "539": {
+          "json": {
+            "states": []
+          }
+        },
+        "540": {
+          "json": {
+            "states": []
+          }
+        },
+        "541": {
+          "json": {
+            "states": []
+          }
+        },
+        "542": {
           "json": {
             "states": []
           }
@@ -953,216 +953,6 @@
                   "tex": {
                     "$case": "texture",
                     "texture": {
-                      "src": "https://i.postimg.cc/CMHfFwmW/decentraland-painting-19.jpg",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "alphaTest": 0.5,
-                "castShadows": true,
-                "alphaTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "emissiveTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "bumpTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "albedoColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-                },
-                "emissiveColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "reflectivityColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "transparencyMode": 4,
-                "metallic": 0.5,
-                "roughness": 0.5,
-                "specularIntensity": 1,
-                "emissiveIntensity": 0,
-                "directIntensity": 1
-              }
-            }
-          }
-        },
-        "514": {
-          "json": {
-            "material": {
-              "$case": "pbr",
-              "pbr": {
-                "texture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "https://i.postimg.cc/3NBy9ZkK/decentraland-painting-14.jpg",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "alphaTest": 0.5,
-                "castShadows": true,
-                "alphaTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "emissiveTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "assets/scene/Images/decentraland_painting_14.jpg",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "bumpTexture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
-                      "src": "",
-                      "wrapMode": 0,
-                      "filterMode": 0,
-                      "offset": {
-                        "x": 0,
-                        "y": 0
-                      },
-                      "tiling": {
-                        "x": 1,
-                        "y": 1
-                      }
-                    }
-                  }
-                },
-                "albedoColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-                },
-                "emissiveColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "reflectivityColor": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1
-                },
-                "transparencyMode": 4,
-                "metallic": 0.5,
-                "roughness": 0.5,
-                "specularIntensity": 1,
-                "emissiveIntensity": 0,
-                "directIntensity": 1
-              }
-            }
-          }
-        },
-        "515": {
-          "json": {
-            "material": {
-              "$case": "pbr",
-              "pbr": {
-                "texture": {
-                  "tex": {
-                    "$case": "texture",
-                    "texture": {
                       "src": "https://i.postimg.cc/yY13x2GW/decentraland-painting-20.jpg",
                       "wrapMode": 0,
                       "filterMode": 0,
@@ -1251,7 +1041,7 @@
                 },
                 "transparencyMode": 4,
                 "metallic": 0.5,
-                "roughness": 0.5,
+                "roughness": 0.6000000238418579,
                 "specularIntensity": 1,
                 "emissiveIntensity": 0,
                 "directIntensity": 1
@@ -1259,7 +1049,112 @@
             }
           }
         },
-        "516": {
+        "527": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "https://i.postimg.cc/CMHfFwmW/decentraland-painting-19.jpg",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "albedoColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                },
+                "emissiveColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "reflectivityColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.6000000238418579,
+                "specularIntensity": 1,
+                "emissiveIntensity": 0,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "528": {
           "json": {
             "material": {
               "$case": "pbr",
@@ -1356,7 +1251,7 @@
                 },
                 "transparencyMode": 4,
                 "metallic": 0.5,
-                "roughness": 0.5,
+                "roughness": 0.6000000238418579,
                 "specularIntensity": 1,
                 "emissiveIntensity": 0,
                 "directIntensity": 1
@@ -1364,7 +1259,7 @@
             }
           }
         },
-        "517": {
+        "538": {
           "json": {
             "material": {
               "$case": "pbr",
@@ -1461,7 +1356,7 @@
                 },
                 "transparencyMode": 4,
                 "metallic": 0.5,
-                "roughness": 0.5,
+                "roughness": 0.6000000238418579,
                 "specularIntensity": 1,
                 "emissiveIntensity": 0,
                 "directIntensity": 1
@@ -1469,7 +1364,7 @@
             }
           }
         },
-        "518": {
+        "540": {
           "json": {
             "material": {
               "$case": "pbr",
@@ -1566,7 +1461,112 @@
                 },
                 "transparencyMode": 4,
                 "metallic": 0.5,
-                "roughness": 0.5,
+                "roughness": 0.6000000238418579,
+                "specularIntensity": 1,
+                "emissiveIntensity": 0,
+                "directIntensity": 1
+              }
+            }
+          }
+        },
+        "541": {
+          "json": {
+            "material": {
+              "$case": "pbr",
+              "pbr": {
+                "texture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "https://i.postimg.cc/3NBy9ZkK/decentraland-painting-14.jpg",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "alphaTest": 0.5,
+                "castShadows": true,
+                "alphaTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "emissiveTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "bumpTexture": {
+                  "tex": {
+                    "$case": "texture",
+                    "texture": {
+                      "src": "",
+                      "wrapMode": 0,
+                      "filterMode": 0,
+                      "offset": {
+                        "x": 0,
+                        "y": 0
+                      },
+                      "tiling": {
+                        "x": 1,
+                        "y": 1
+                      }
+                    }
+                  }
+                },
+                "albedoColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+                },
+                "emissiveColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "reflectivityColor": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1
+                },
+                "transparencyMode": 4,
+                "metallic": 0.5,
+                "roughness": 0.6000000238418579,
                 "specularIntensity": 1,
                 "emissiveIntensity": 0,
                 "directIntensity": 1
@@ -1594,7 +1594,7 @@
             }
           }
         },
-        "514": {
+        "527": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1603,7 +1603,7 @@
             }
           }
         },
-        "515": {
+        "528": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1612,7 +1612,7 @@
             }
           }
         },
-        "516": {
+        "538": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1621,7 +1621,7 @@
             }
           }
         },
-        "517": {
+        "540": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1630,7 +1630,7 @@
             }
           }
         },
-        "518": {
+        "541": {
           "json": {
             "collisionMask": 1,
             "mesh": {
@@ -1660,7 +1660,7 @@
             }
           }
         },
-        "514": {
+        "527": {
           "json": {
             "mesh": {
               "$case": "plane",
@@ -1670,7 +1670,7 @@
             }
           }
         },
-        "515": {
+        "528": {
           "json": {
             "mesh": {
               "$case": "plane",
@@ -1680,7 +1680,7 @@
             }
           }
         },
-        "516": {
+        "538": {
           "json": {
             "mesh": {
               "$case": "plane",
@@ -1690,7 +1690,7 @@
             }
           }
         },
-        "517": {
+        "540": {
           "json": {
             "mesh": {
               "$case": "plane",
@@ -1700,7 +1700,7 @@
             }
           }
         },
-        "518": {
+        "541": {
           "json": {
             "mesh": {
               "$case": "plane",
@@ -1732,37 +1732,7 @@
         },
         "513": {
           "json": {
-            "value": "1st_floor_image_1"
-          }
-        },
-        "514": {
-          "json": {
-            "value": "1st_floor_image_6"
-          }
-        },
-        "515": {
-          "json": {
             "value": "1st_floor_image_2"
-          }
-        },
-        "516": {
-          "json": {
-            "value": "1st_floor_image_3"
-          }
-        },
-        "517": {
-          "json": {
-            "value": "1st_floor_image_4"
-          }
-        },
-        "518": {
-          "json": {
-            "value": "1st_floor_image_5"
-          }
-        },
-        "519": {
-          "json": {
-            "value": "Custom_Text"
           }
         },
         "520": {
@@ -1798,6 +1768,16 @@
         "526": {
           "json": {
             "value": "Discord Link"
+          }
+        },
+        "527": {
+          "json": {
+            "value": "1st_floor_image_1"
+          }
+        },
+        "528": {
+          "json": {
+            "value": "1st_floor_image_3"
           }
         },
         "529": {
@@ -1845,9 +1825,29 @@
             "value": "YouTube Link"
           }
         },
+        "538": {
+          "json": {
+            "value": "1st_floor_image_4"
+          }
+        },
         "539": {
           "json": {
             "value": "Green Sycamore Tree"
+          }
+        },
+        "540": {
+          "json": {
+            "value": "1st_floor_image_5"
+          }
+        },
+        "541": {
+          "json": {
+            "value": "1st_floor_image_6"
+          }
+        },
+        "542": {
+          "json": {
+            "value": "Custom_Text"
           }
         }
       }
@@ -1910,15 +1910,6 @@
             ]
           }
         },
-        "519": {
-          "json": {
-            "componentIds": [
-              1030,
-              1081,
-              1042
-            ]
-          }
-        },
         "520": {
           "json": {
             "componentIds": [
@@ -1941,6 +1932,15 @@
               99929642
             ]
           }
+        },
+        "542": {
+          "json": {
+            "componentIds": [
+              1030,
+              1081,
+              1042
+            ]
+          }
         }
       }
     },
@@ -1953,7 +1953,7 @@
         "protocolBuffer": "PBTextShape"
       },
       "data": {
-        "519": {
+        "542": {
           "json": {
             "text": "CONTEMPORARY\nART\nGALLERY",
             "font": 2,
@@ -1965,11 +1965,11 @@
             "paddingBottom": 0,
             "paddingLeft": 0,
             "lineSpacing": 0,
-            "outlineWidth": 0.05999999865889549,
+            "outlineWidth": 0,
             "outlineColor": {
-              "r": 0,
-              "g": 0,
-              "b": 0
+              "r": 1,
+              "g": 1,
+              "b": 1
             },
             "textColor": {
               "r": 0,
@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "542": {
           "json": {
             "gizmo": 0
           }
@@ -2512,16 +2512,17 @@
             "value": [
               {
                 "entity": 0,
+                "open": true,
                 "children": [
                   523,
                   512,
+                  527,
                   513,
-                  515,
-                  516,
-                  517,
-                  518,
-                  514,
-                  519,
+                  528,
+                  538,
+                  540,
+                  541,
+                  542,
                   529,
                   530,
                   531,
@@ -2553,30 +2554,6 @@
                 "children": []
               },
               {
-                "entity": 513,
-                "children": []
-              },
-              {
-                "entity": 515,
-                "children": []
-              },
-              {
-                "entity": 516,
-                "children": []
-              },
-              {
-                "entity": 517,
-                "children": []
-              },
-              {
-                "entity": 518,
-                "children": []
-              },
-              {
-                "entity": 519,
-                "children": []
-              },
-              {
                 "entity": 529,
                 "children": []
               },
@@ -2594,10 +2571,6 @@
               },
               {
                 "entity": 539,
-                "children": []
-              },
-              {
-                "entity": 514,
                 "children": []
               },
               {
@@ -2646,6 +2619,34 @@
               },
               {
                 "entity": 537,
+                "children": []
+              },
+              {
+                "entity": 527,
+                "children": []
+              },
+              {
+                "entity": 513,
+                "children": []
+              },
+              {
+                "entity": 528,
+                "children": []
+              },
+              {
+                "entity": 538,
+                "children": []
+              },
+              {
+                "entity": 540,
+                "children": []
+              },
+              {
+                "entity": 541,
+                "children": []
+              },
+              {
+                "entity": 542,
                 "children": []
               }
             ]
@@ -2912,6 +2913,14 @@
                   "optionalJsonSchema": {
                     "type": "string",
                     "serializationType": "utf8-string"
+                  }
+                },
+                "default": {
+                  "type": "boolean",
+                  "serializationType": "optional",
+                  "optionalJsonSchema": {
+                    "type": "boolean",
+                    "serializationType": "boolean"
                   }
                 }
               },
@@ -3665,24 +3674,6 @@
         "513": {
           "json": {}
         },
-        "514": {
-          "json": {}
-        },
-        "515": {
-          "json": {}
-        },
-        "516": {
-          "json": {}
-        },
-        "517": {
-          "json": {}
-        },
-        "518": {
-          "json": {}
-        },
-        "519": {
-          "json": {}
-        },
         "520": {
           "json": {}
         },
@@ -3702,6 +3693,12 @@
           "json": {}
         },
         "526": {
+          "json": {}
+        },
+        "527": {
+          "json": {}
+        },
+        "528": {
           "json": {}
         },
         "529": {
@@ -3731,7 +3728,19 @@
         "537": {
           "json": {}
         },
+        "538": {
+          "json": {}
+        },
         "539": {
+          "json": {}
+        },
+        "540": {
+          "json": {}
+        },
+        "541": {
+          "json": {}
+        },
+        "542": {
           "json": {}
         }
       }
@@ -3889,6 +3898,376 @@
               "type": "string",
               "serializationType": "utf8-string"
             }
+          },
+          "label": {
+            "type": "string",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "string",
+              "serializationType": "utf8-string"
+            }
+          },
+          "sections": {
+            "type": "array",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "serializationType": "utf8-string"
+                  },
+                  "label": {
+                    "type": "string",
+                    "serializationType": "optional",
+                    "optionalJsonSchema": {
+                      "type": "string",
+                      "serializationType": "utf8-string"
+                    }
+                  },
+                  "items": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "component": {
+                          "type": "string",
+                          "serializationType": "utf8-string"
+                        },
+                        "widget": {
+                          "type": "string",
+                          "serializationType": "utf8-string"
+                        },
+                        "label": {
+                          "type": "string",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "string",
+                            "serializationType": "utf8-string"
+                          }
+                        },
+                        "type": {
+                          "type": "string",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "string",
+                            "serializationType": "utf8-string"
+                          }
+                        },
+                        "path": {
+                          "type": "string",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "string",
+                            "serializationType": "utf8-string"
+                          }
+                        },
+                        "basicViewId": {
+                          "type": "string",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "string",
+                            "serializationType": "utf8-string"
+                          }
+                        },
+                        "props": {
+                          "type": "object",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "object",
+                            "properties": {
+                              "basic": {
+                                "type": "boolean",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "boolean",
+                                  "serializationType": "boolean"
+                                }
+                              }
+                            },
+                            "serializationType": "map"
+                          }
+                        },
+                        "constraints": {
+                          "type": "object",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "object",
+                            "properties": {
+                              "min": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "max": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "minExclusive": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "maxExclusive": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "step": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "multipleOf": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "minLength": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "maxLength": {
+                                "type": "number",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "number",
+                                  "serializationType": "float32"
+                                }
+                              },
+                              "pattern": {
+                                "type": "string",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "string",
+                                  "serializationType": "utf8-string"
+                                }
+                              },
+                              "format": {
+                                "type": "string",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "string",
+                                  "serializationType": "utf8-string"
+                                }
+                              },
+                              "default": {
+                                "type": "string",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "string",
+                                  "serializationType": "utf8-string"
+                                }
+                              }
+                            },
+                            "serializationType": "map"
+                          }
+                        },
+                        "transform": {
+                          "type": "object",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "object",
+                            "properties": {
+                              "in": {
+                                "type": "object",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "object",
+                                  "properties": {
+                                    "steps": {
+                                      "type": "array",
+                                      "items": {
+                                        "type": "object",
+                                        "properties": {
+                                          "op": {
+                                            "type": "string",
+                                            "serializationType": "utf8-string"
+                                          },
+                                          "onError": {
+                                            "type": "string",
+                                            "serializationType": "optional",
+                                            "optionalJsonSchema": {
+                                              "type": "string",
+                                              "enum": [
+                                                "fail",
+                                                "skip",
+                                                "noop"
+                                              ],
+                                              "default": "noop",
+                                              "serializationType": "enum-string",
+                                              "enumObject": {
+                                                "FAIL": "fail",
+                                                "SKIP": "skip",
+                                                "NOOP": "noop"
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "serializationType": "map"
+                                      },
+                                      "serializationType": "array"
+                                    }
+                                  },
+                                  "serializationType": "map"
+                                }
+                              },
+                              "out": {
+                                "type": "object",
+                                "serializationType": "optional",
+                                "optionalJsonSchema": {
+                                  "type": "object",
+                                  "properties": {
+                                    "steps": {
+                                      "type": "array",
+                                      "items": {
+                                        "type": "object",
+                                        "properties": {
+                                          "op": {
+                                            "type": "string",
+                                            "serializationType": "utf8-string"
+                                          },
+                                          "onError": {
+                                            "type": "string",
+                                            "serializationType": "optional",
+                                            "optionalJsonSchema": {
+                                              "type": "string",
+                                              "enum": [
+                                                "fail",
+                                                "skip",
+                                                "noop"
+                                              ],
+                                              "default": "noop",
+                                              "serializationType": "enum-string",
+                                              "enumObject": {
+                                                "FAIL": "fail",
+                                                "SKIP": "skip",
+                                                "NOOP": "noop"
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "serializationType": "map"
+                                      },
+                                      "serializationType": "array"
+                                    }
+                                  },
+                                  "serializationType": "map"
+                                }
+                              }
+                            },
+                            "serializationType": "map"
+                          }
+                        },
+                        "dataSource": {
+                          "type": "object",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "object",
+                            "properties": {
+                              "kind": {
+                                "type": "string",
+                                "serializationType": "utf8-string"
+                              }
+                            },
+                            "serializationType": "map"
+                          }
+                        }
+                      },
+                      "serializationType": "map"
+                    },
+                    "serializationType": "array"
+                  },
+                  "columns": {
+                    "type": "number",
+                    "serializationType": "optional",
+                    "optionalJsonSchema": {
+                      "type": "number",
+                      "serializationType": "float32"
+                    }
+                  },
+                  "helpTooltip": {
+                    "type": "object",
+                    "serializationType": "optional",
+                    "optionalJsonSchema": {
+                      "type": "object",
+                      "properties": {
+                        "text": {
+                          "type": "string",
+                          "serializationType": "utf8-string"
+                        },
+                        "link": {
+                          "type": "string",
+                          "serializationType": "optional",
+                          "optionalJsonSchema": {
+                            "type": "string",
+                            "serializationType": "utf8-string"
+                          }
+                        }
+                      },
+                      "serializationType": "map"
+                    }
+                  }
+                },
+                "serializationType": "map"
+              },
+              "serializationType": "array"
+            }
+          },
+          "helpTooltip": {
+            "type": "object",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "object",
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "serializationType": "utf8-string"
+                },
+                "link": {
+                  "type": "string",
+                  "serializationType": "optional",
+                  "optionalJsonSchema": {
+                    "type": "string",
+                    "serializationType": "utf8-string"
+                  }
+                }
+              },
+              "serializationType": "map"
+            }
+          },
+          "version": {
+            "type": "number",
+            "serializationType": "optional",
+            "optionalJsonSchema": {
+              "type": "number",
+              "serializationType": "float32"
+            }
           }
         },
         "serializationType": "map"
@@ -3915,6 +4294,33 @@
               }
             ],
             "assetId": "ef85eb18-f69c-431c-bcfd-dd51d70a604f"
+          }
+        },
+        "513": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
           }
         },
         "520": {
@@ -3958,6 +4364,60 @@
             "assetId": "dbffd66a-8c1f-4b34-bed4-c71ab5cb4024"
           }
         },
+        "527": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
+        "528": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
         "535": {
           "json": {
             "isBasicViewEnabled": true,
@@ -3969,6 +4429,173 @@
               }
             ],
             "assetId": "0c419cb9-bc21-4c51-977f-41a505a097f0"
+          }
+        },
+        "538": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
+        "540": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
+        "541": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "37460a1e-affc-4f87-b725-118cc11d86fc",
+            "label": "Image",
+            "sections": [
+              {
+                "id": "texture",
+                "items": [
+                  {
+                    "component": "core::Material",
+                    "widget": "FileUploadField",
+                    "label": "Path",
+                    "path": "material.pbr.texture.tex.texture.src",
+                    "props": {}
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
+        "542": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "dd0d51c1-f16f-41c2-9bf1-735fe5b17dc4",
+            "label": "Text Settings",
+            "sections": [
+              {
+                "id": "text-settings",
+                "items": [
+                  {
+                    "component": "core::TextShape",
+                    "widget": "TextArea",
+                    "label": "Text",
+                    "type": "text",
+                    "path": "text"
+                  }
+                ]
+              },
+              {
+                "id": "font-size-settings",
+                "items": [
+                  {
+                    "component": "core::TextShape",
+                    "widget": "TextField",
+                    "label": "Font Size",
+                    "type": "number",
+                    "path": "fontSize"
+                  },
+                  {
+                    "component": "core::TextShape",
+                    "widget": "CheckboxField",
+                    "label": "Auto-Size",
+                    "type": "boolean",
+                    "path": "fontAutoSize"
+                  }
+                ],
+                "columns": 2
+              },
+              {
+                "id": "color-align-settings",
+                "items": [
+                  {
+                    "component": "core::TextShape",
+                    "widget": "ColorField",
+                    "label": "Color",
+                    "type": "Color4",
+                    "path": "textColor",
+                    "props": {
+                      "basic": true
+                    },
+                    "transform": {
+                      "in": {
+                        "steps": [
+                          {
+                            "op": "toHex"
+                          }
+                        ]
+                      },
+                      "out": {
+                        "steps": [
+                          {
+                            "op": "toColor4"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "component": "core::TextShape",
+                    "widget": "Dropdown",
+                    "label": "Text align",
+                    "type": "text",
+                    "path": "textAlign",
+                    "dataSource": {
+                      "kind": "textAlign"
+                    }
+                  }
+                ],
+                "columns": 2
+              }
+            ],
+            "version": 2
           }
         }
       }
