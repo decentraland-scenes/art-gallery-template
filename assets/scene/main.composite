@@ -132,6 +132,27 @@
             "parent": 0
           }
         },
+        "514": {
+          "json": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "w": 1
+            },
+            "scale": {
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            "parent": 0
+          }
+        },
         "520": {
           "json": {
             "position": {
@@ -191,27 +212,6 @@
               "y": 0.7071067690849304,
               "z": 0,
               "w": 0.7071067690849304
-            },
-            "parent": 0
-          }
-        },
-        "523": {
-          "json": {
-            "position": {
-              "x": 0,
-              "y": 0,
-              "z": 0
-            },
-            "scale": {
-              "x": 1,
-              "y": 1,
-              "z": 1
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0,
-              "z": 0,
-              "w": 1
             },
             "parent": 0
           }
@@ -695,6 +695,11 @@
             "states": []
           }
         },
+        "514": {
+          "json": {
+            "states": []
+          }
+        },
         "520": {
           "json": {
             "states": []
@@ -706,11 +711,6 @@
           }
         },
         "522": {
-          "json": {
-            "states": []
-          }
-        },
-        "523": {
           "json": {
             "states": []
           }
@@ -828,6 +828,13 @@
             "invisibleMeshesCollisionMask": 2
           }
         },
+        "514": {
+          "json": {
+            "src": "assets/scene/Models/art_gallery/art_gallery.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "521": {
           "json": {
             "src": "assets/scene/Models/shelf/shelf.glb",
@@ -838,13 +845,6 @@
         "522": {
           "json": {
             "src": "assets/scene/Models/beam_bench/beam_bench.glb",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
-          }
-        },
-        "523": {
-          "json": {
-            "src": "assets/scene/Models/art_gallery/art_gallery.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -1735,6 +1735,11 @@
             "value": "1st_floor_image_2"
           }
         },
+        "514": {
+          "json": {
+            "value": "Main Building"
+          }
+        },
         "520": {
           "json": {
             "value": "NFT_2"
@@ -1748,11 +1753,6 @@
         "522": {
           "json": {
             "value": "beam_bench_2"
-          }
-        },
-        "523": {
-          "json": {
-            "value": "art_gallery.glb"
           }
         },
         "525": {
@@ -2065,7 +2065,7 @@
         "serializationType": "map"
       },
       "data": {
-        "512": {
+        "514": {
           "json": {
             "gizmo": 0
           }
@@ -2518,7 +2518,7 @@
                 "entity": 0,
                 "open": true,
                 "children": [
-                  523,
+                  514,
                   512,
                   527,
                   513,
@@ -2594,10 +2594,6 @@
                 "children": []
               },
               {
-                "entity": 523,
-                "children": []
-              },
-              {
                 "entity": 525,
                 "children": []
               },
@@ -2651,6 +2647,10 @@
               },
               {
                 "entity": 544,
+                "children": []
+              },
+              {
+                "entity": 514,
                 "children": []
               }
             ]
@@ -3678,6 +3678,9 @@
         "513": {
           "json": {}
         },
+        "514": {
+          "json": {}
+        },
         "520": {
           "json": {}
         },
@@ -3685,9 +3688,6 @@
           "json": {}
         },
         "522": {
-          "json": {}
-        },
-        "523": {
           "json": {}
         },
         "525": {
@@ -3762,7 +3762,7 @@
         "serializationType": "map"
       },
       "data": {
-        "523": {
+        "514": {
           "json": {
             "value": true
           }
