@@ -118,16 +118,16 @@
               "y": 4.25,
               "z": 1.5
             },
+            "scale": {
+              "x": 7,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 1,
               "z": 0,
               "w": 6.123234262925839e-17
-            },
-            "scale": {
-              "x": 7,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -149,6 +149,69 @@
               "y": 0,
               "z": 0,
               "w": 1
+            },
+            "parent": 0
+          }
+        },
+        "515": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.4500000476837158,
+              "z": 25.399999618530273
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.1736481785774231,
+              "z": 0,
+              "w": -0.9848077297210693
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
+            "parent": 0
+          }
+        },
+        "516": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.4500000476837158,
+              "z": 24.5
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.1736481785774231,
+              "z": 0,
+              "w": -0.9848077297210693
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
+            },
+            "parent": 0
+          }
+        },
+        "517": {
+          "json": {
+            "position": {
+              "x": 20.899999618530273,
+              "y": 1.4500000476837158,
+              "z": 23.600000381469727
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0.09584575146436691,
+              "z": 0,
+              "w": -0.9953961968421936
+            },
+            "scale": {
+              "x": 0.4000000059604645,
+              "y": 0.4000000059604645,
+              "z": 0.4000000059604645
             },
             "parent": 0
           }
@@ -237,27 +300,6 @@
             "parent": 0
           }
         },
-        "526": {
-          "json": {
-            "position": {
-              "x": 20.899999618530273,
-              "y": 1.4500000476837158,
-              "z": 25.399999618530273
-            },
-            "scale": {
-              "x": 0.4000000059604645,
-              "y": 0.4000000059604645,
-              "z": 0.4000000059604645
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.1736481785774231,
-              "z": 0,
-              "w": -0.9848077297210693
-            },
-            "parent": 0
-          }
-        },
         "527": {
           "json": {
             "position": {
@@ -286,16 +328,16 @@
               "y": 4.25,
               "z": 1.5
             },
+            "scale": {
+              "x": 6,
+              "y": 5,
+              "z": 1
+            },
             "rotation": {
               "x": 0,
               "y": 1,
               "z": 0,
               "w": 6.123234262925839e-17
-            },
-            "scale": {
-              "x": 6,
-              "y": 5,
-              "z": 1
             },
             "parent": 0
           }
@@ -443,48 +485,6 @@
               "y": 0,
               "z": 0,
               "w": 1
-            },
-            "parent": 0
-          }
-        },
-        "536": {
-          "json": {
-            "position": {
-              "x": 20.899999618530273,
-              "y": 1.4500000476837158,
-              "z": 24.5
-            },
-            "scale": {
-              "x": 0.4000000059604645,
-              "y": 0.4000000059604645,
-              "z": 0.4000000059604645
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.11320321261882782,
-              "z": 0,
-              "w": -0.9935718774795532
-            },
-            "parent": 0
-          }
-        },
-        "537": {
-          "json": {
-            "position": {
-              "x": 20.899999618530273,
-              "y": 1.4500000476837158,
-              "z": 23.600000381469727
-            },
-            "scale": {
-              "x": 0.4000000059604645,
-              "y": 0.4000000059604645,
-              "z": 0.4000000059604645
-            },
-            "rotation": {
-              "x": 0,
-              "y": 0.09584575146436691,
-              "z": 0,
-              "w": -0.9953961968421936
             },
             "parent": 0
           }
@@ -700,6 +700,21 @@
             "states": []
           }
         },
+        "515": {
+          "json": {
+            "states": []
+          }
+        },
+        "516": {
+          "json": {
+            "states": []
+          }
+        },
+        "517": {
+          "json": {
+            "states": []
+          }
+        },
         "520": {
           "json": {
             "states": []
@@ -716,11 +731,6 @@
           }
         },
         "525": {
-          "json": {
-            "states": []
-          }
-        },
-        "526": {
           "json": {
             "states": []
           }
@@ -766,16 +776,6 @@
           }
         },
         "535": {
-          "json": {
-            "states": []
-          }
-        },
-        "536": {
-          "json": {
-            "states": []
-          }
-        },
-        "537": {
           "json": {
             "states": []
           }
@@ -835,6 +835,27 @@
             "invisibleMeshesCollisionMask": 3
           }
         },
+        "515": {
+          "json": {
+            "src": "assets/asset-packs/discord_link/discord.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "516": {
+          "json": {
+            "src": "assets/asset-packs/twitter_link/twitter.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
+        "517": {
+          "json": {
+            "src": "assets/asset-packs/youtube_link/youtube.glb",
+            "visibleMeshesCollisionMask": 0,
+            "invisibleMeshesCollisionMask": 3
+          }
+        },
         "521": {
           "json": {
             "src": "assets/scene/Models/shelf/shelf.glb",
@@ -845,13 +866,6 @@
         "522": {
           "json": {
             "src": "assets/scene/Models/beam_bench/beam_bench.glb",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
-          }
-        },
-        "526": {
-          "json": {
-            "src": "assets/asset-packs/discord_link/discord.glb",
             "visibleMeshesCollisionMask": 0,
             "invisibleMeshesCollisionMask": 3
           }
@@ -903,20 +917,6 @@
             "src": "assets/asset-packs/admin_tools/admin_toolkit.glb",
             "visibleMeshesCollisionMask": 1,
             "invisibleMeshesCollisionMask": 0
-          }
-        },
-        "536": {
-          "json": {
-            "src": "assets/asset-packs/twitter_link/twitter.glb",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
-          }
-        },
-        "537": {
-          "json": {
-            "src": "assets/asset-packs/youtube_link/youtube.glb",
-            "visibleMeshesCollisionMask": 0,
-            "invisibleMeshesCollisionMask": 3
           }
         },
         "539": {
@@ -1740,6 +1740,21 @@
             "value": "Main Building"
           }
         },
+        "515": {
+          "json": {
+            "value": "Discord Link"
+          }
+        },
+        "516": {
+          "json": {
+            "value": "Twitter Link"
+          }
+        },
+        "517": {
+          "json": {
+            "value": "YouTube Link"
+          }
+        },
         "520": {
           "json": {
             "value": "NFT_2"
@@ -1758,11 +1773,6 @@
         "525": {
           "json": {
             "value": "NFT"
-          }
-        },
-        "526": {
-          "json": {
-            "value": "Discord Link"
           }
         },
         "527": {
@@ -1808,16 +1818,6 @@
         "535": {
           "json": {
             "value": "Admin Tools"
-          }
-        },
-        "536": {
-          "json": {
-            "value": "Twitter Link"
-          }
-        },
-        "537": {
-          "json": {
-            "value": "YouTube Link"
           }
         },
         "538": {
@@ -2065,9 +2065,9 @@
         "serializationType": "map"
       },
       "data": {
-        "528": {
+        "522": {
           "json": {
-            "gizmo": 0
+            "gizmo": 1
           }
         }
       }
@@ -2539,10 +2539,10 @@
                   525,
                   520,
                   521,
-                  526,
-                  536,
-                  537,
-                  544
+                  544,
+                  515,
+                  516,
+                  517
                 ]
               },
               {
@@ -2606,18 +2606,6 @@
                 "children": []
               },
               {
-                "entity": 526,
-                "children": []
-              },
-              {
-                "entity": 536,
-                "children": []
-              },
-              {
-                "entity": 537,
-                "children": []
-              },
-              {
                 "entity": 527,
                 "children": []
               },
@@ -2651,6 +2639,18 @@
               },
               {
                 "entity": 514,
+                "children": []
+              },
+              {
+                "entity": 515,
+                "children": []
+              },
+              {
+                "entity": 516,
+                "children": []
+              },
+              {
+                "entity": 517,
                 "children": []
               }
             ]
@@ -2975,38 +2975,44 @@
             ]
           }
         },
-        "526": {
+        "515": {
           "json": {
-            "id": 5,
+            "id": 12,
             "value": [
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{ \"url\": \"https://discord.com\" }"
+                "jsonPayload": "{ \"url\": \"https://discord.com\" }",
+                "allowedInBasicView": true,
+                "basicViewId": "open-link"
               }
             ]
           }
         },
-        "536": {
+        "516": {
           "json": {
-            "id": 8,
+            "id": 13,
             "value": [
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{ \"url\": \"https://twitter.com\" }"
+                "jsonPayload": "{ \"url\": \"https://twitter.com\" }",
+                "allowedInBasicView": true,
+                "basicViewId": "open-link"
               }
             ]
           }
         },
-        "537": {
+        "517": {
           "json": {
-            "id": 9,
+            "id": 14,
             "value": [
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{ \"url\": \"https://youtube.com\" }"
+                "jsonPayload": "{ \"url\": \"https://youtube.com\" }",
+                "allowedInBasicView": true,
+                "basicViewId": "open-link"
               }
             ]
           }
@@ -3059,7 +3065,7 @@
         "0": {
           "json": {
             "id": 0,
-            "value": 11
+            "value": 14
           }
         }
       }
@@ -3274,7 +3280,7 @@
             ]
           }
         },
-        "526": {
+        "515": {
           "json": {
             "value": [
               {
@@ -3282,7 +3288,7 @@
                 "conditions": [],
                 "actions": [
                   {
-                    "id": 5,
+                    "id": 12,
                     "name": "Open Link"
                   }
                 ]
@@ -3290,7 +3296,7 @@
             ]
           }
         },
-        "536": {
+        "516": {
           "json": {
             "value": [
               {
@@ -3298,7 +3304,7 @@
                 "conditions": [],
                 "actions": [
                   {
-                    "id": 8,
+                    "id": 13,
                     "name": "Open Link"
                   }
                 ]
@@ -3306,7 +3312,7 @@
             ]
           }
         },
-        "537": {
+        "517": {
           "json": {
             "value": [
               {
@@ -3314,7 +3320,7 @@
                 "conditions": [],
                 "actions": [
                   {
-                    "id": 9,
+                    "id": 14,
                     "name": "Open Link"
                   }
                 ]
@@ -3681,6 +3687,17 @@
         "514": {
           "json": {}
         },
+        "515": {
+          "json": {
+            "porportionalScaling": true
+          }
+        },
+        "516": {
+          "json": {}
+        },
+        "517": {
+          "json": {}
+        },
         "520": {
           "json": {}
         },
@@ -3691,9 +3708,6 @@
           "json": {}
         },
         "525": {
-          "json": {}
-        },
-        "526": {
           "json": {}
         },
         "527": {
@@ -3721,12 +3735,6 @@
           "json": {}
         },
         "535": {
-          "json": {}
-        },
-        "536": {
-          "json": {}
-        },
-        "537": {
           "json": {}
         },
         "538": {
@@ -4323,6 +4331,87 @@
             ],
             "helpTooltip": {
               "text": "Upload an image file to use as a texture for this entity."
+            },
+            "version": 2
+          }
+        },
+        "515": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "e11d2848-b79d-4ddc-bfea-5033cbdd8f9f",
+            "label": "Discord Link",
+            "sections": [
+              {
+                "id": "link",
+                "items": [
+                  {
+                    "component": "asset-packs::Actions",
+                    "widget": "TextField",
+                    "label": "Discord Link",
+                    "path": "url",
+                    "basicViewId": "open-link"
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Enter a Discord server URL to open when the item is clicked."
+            },
+            "version": 2
+          }
+        },
+        "516": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "ae504c4d-fa75-416c-a7bd-d96d5e0dd0b1",
+            "label": "Twitter Link",
+            "sections": [
+              {
+                "id": "link",
+                "items": [
+                  {
+                    "component": "asset-packs::Actions",
+                    "widget": "TextField",
+                    "label": "Twitter Link",
+                    "path": "url",
+                    "basicViewId": "open-link"
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Enter a Twitter URL to open when the item is clicked."
+            },
+            "version": 2
+          }
+        },
+        "517": {
+          "json": {
+            "isBasicViewEnabled": true,
+            "componentName": "",
+            "fields": [],
+            "assetId": "aef92255-eaa4-4f36-9f08-8b1784ae2725",
+            "label": "YouTube Link",
+            "sections": [
+              {
+                "id": "link",
+                "items": [
+                  {
+                    "component": "asset-packs::Actions",
+                    "widget": "TextField",
+                    "label": "YouTube Link",
+                    "path": "url",
+                    "basicViewId": "open-link"
+                  }
+                ]
+              }
+            ],
+            "helpTooltip": {
+              "text": "Enter a YouTube URL to open when the item is clicked."
             },
             "version": 2
           }
